@@ -1,0 +1,7 @@
+node_modules/
+dist/
+artifacts/
+.superpowers/
+.sites-runtime/
+playwright-report/
+test-results/
