@@ -5,3 +5,6 @@ artifacts/
 .sites-runtime/
 playwright-report/
 test-results/
+
+# Local Netlify folder
+.netlify

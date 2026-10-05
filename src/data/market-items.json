@@ -262,7 +262,7 @@
   {
     "id": "item-027",
     "name": "赛丽亚的狂暴项链",
-    "category": "装备",
+    "category": "项链",
     "points": 100,
     "dragonGold": null,
     "coins": null,
@@ -312,7 +312,7 @@
   {
     "id": "item-032",
     "name": "白银项链",
-    "category": "装备",
+    "category": "项链",
     "points": 600,
     "dragonGold": null,
     "coins": null,
@@ -392,7 +392,7 @@
   {
     "id": "item-040",
     "name": "死漂属性戒指",
-    "category": "装备",
+    "category": "戒指",
     "points": 100,
     "dragonGold": null,
     "coins": null,
@@ -432,7 +432,7 @@
   {
     "id": "item-044",
     "name": "赛丽亚的爱心戒指",
-    "category": "装备",
+    "category": "戒指",
     "points": 300,
     "dragonGold": null,
     "coins": null,

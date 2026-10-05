@@ -16,6 +16,9 @@ export default function App() {
   const reviewCount = [...soulRings, ...marketItems, ...rangePrices].filter((item) => item.confidence === "needs-review").length;
   return (
     <div className="app-shell">
+      <div className="developer-credit" aria-label="开发者署名">
+        <span aria-hidden="true">✦</span> 本程序由股神开发 <span aria-hidden="true">✦</span>
+      </div>
       <header className="site-header">
         <div className="brand-mark" aria-hidden="true"><span /><span /><span /></div>
         <div><p className="eyebrow">DOULUO DATA CODEX</p><h1>魂环 · 万象录</h1><p>魂环属性与一区物价的可检索资料库</p></div>

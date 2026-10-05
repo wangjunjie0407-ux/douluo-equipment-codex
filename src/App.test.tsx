@@ -3,6 +3,11 @@ import { describe, expect, it } from "vitest";
 import App from "./App";
 
 describe("dashboard modules", () => {
+  it("shows the developer credit in the prominent page header", () => {
+    render(<App />);
+    expect(screen.getByText("本程序由股神开发")).toHaveClass("developer-credit");
+  });
+
   it("switches from soul rings to the market module", () => {
     render(<App />);
     expect(screen.getByRole("heading", { name: "魂环资料库" })).toBeInTheDocument();
@@ -33,5 +38,24 @@ describe("dashboard modules", () => {
 
     fireEvent.click(screen.getByRole("button", { name: /装备物价表/ }));
     expect(screen.getByLabelText("搜索物品")).toHaveValue("龙金");
+  });
+
+  it("classifies necklaces, rings and hidden weapons and links range pricing", () => {
+    render(<App />);
+    fireEvent.click(screen.getByRole("button", { name: /装备物价表/ }));
+
+    const category = screen.getByRole("combobox", { name: "分类" });
+    expect(screen.getByRole("option", { name: "项链" })).toBeInTheDocument();
+    expect(screen.getByRole("option", { name: "戒指" })).toBeInTheDocument();
+    expect(screen.getByRole("option", { name: "暗器" })).toBeInTheDocument();
+
+    fireEvent.change(category, { target: { value: "戒指" } });
+    expect(screen.getByText("死漂属性戒指")).toBeInTheDocument();
+    expect(screen.getByRole("heading", { name: "戒指", level: 4 })).toBeInTheDocument();
+    expect(screen.queryByRole("heading", { name: "暗器", level: 4 })).not.toBeInTheDocument();
+
+    fireEvent.change(category, { target: { value: "暗器" } });
+    expect(screen.getByRole("heading", { name: "暗器", level: 4 })).toBeInTheDocument();
+    expect(screen.queryByRole("heading", { name: "戒指", level: 4 })).not.toBeInTheDocument();
   });
 });
