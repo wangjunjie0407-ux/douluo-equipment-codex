@@ -64,6 +64,14 @@ describe("extracted content", () => {
     expect(soulBones.at(-1)).toMatchObject({ name: "银妖藤骨", subtype: "所有", attributes: ["生命1100", "攻击150", "缓慢4", "凋零4"] });
     expect(badges[0]).toMatchObject({ name: "魔法深渊之章", subtype: "徽章", attributes: ["失明10%", "点燃10%", "移速10%", "缓慢10%", "暴伤30%", "攻击6000"] });
     expect(badges.at(-1)).toMatchObject({ name: "黑暗大帝的纹章", subtype: "徽章" });
+    expect(soulDevices.find((item) => item.id === "device-003")?.name).toBe("三头赤魔葵");
+    expect(soulDevices.find((item) => item.id === "device-011")?.name).toBe("铁疾藜树");
+    expect(soulDevices.find((item) => item.id === "device-035")).toMatchObject({
+      name: "幽暗吞噬者之刃",
+      attributes: ["攻击23000", "暴伤65%", "暴击8%", "雷霆8%", "破甲8%", "命中8%", "韧性8%"],
+      confidence: "verified"
+    });
+    expect(badges.find((item) => item.id === "badge-009")?.name).toBe("皇家狮鹫徽章");
   });
 
   it("contains the exact approved critical-damage price ladders", () => {

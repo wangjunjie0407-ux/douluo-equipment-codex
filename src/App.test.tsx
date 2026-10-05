@@ -115,4 +115,21 @@ describe("dashboard modules", () => {
     expect(within(table).getByText("100%")).toBeInTheDocument();
     expect(within(table).getByText("12000")).toBeInTheDocument();
   });
+
+  it("searches critical-damage rows and treats whitespace as an empty search", () => {
+    render(<App />);
+    fireEvent.click(screen.getByRole("button", { name: /装备物价表/ }));
+    fireEvent.change(screen.getByRole("combobox", { name: "分类" }), { target: { value: "徽章" } });
+    const search = screen.getByLabelText("搜索物品");
+
+    fireEvent.change(search, { target: { value: "80" } });
+    expect(within(screen.getByRole("table", { name: "徽章爆伤点券价格" })).getAllByRole("row")).toHaveLength(2);
+    expect(screen.getByText("/ 13")).toBeInTheDocument();
+
+    fireEvent.change(search, { target: { value: "   " } });
+    expect(within(screen.getByRole("table", { name: "徽章爆伤点券价格" })).getAllByRole("row")).toHaveLength(14);
+
+    fireEvent.change(screen.getByRole("combobox", { name: "计价" }), { target: { value: "dragonGold" } });
+    expect(screen.queryByRole("table", { name: "徽章爆伤点券价格" })).not.toBeInTheDocument();
+  });
 });

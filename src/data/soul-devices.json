@@ -30,7 +30,7 @@
   {
     "id": "device-003",
     "kind": "soul-device",
-    "name": "三头赤魔",
+    "name": "三头赤魔葵",
     "subtype": "一孔",
     "source": "斗魂森林兑换",
     "attributes": [
@@ -150,7 +150,7 @@
   {
     "id": "device-011",
     "kind": "soul-device",
-    "name": "铁藜树",
+    "name": "铁疾藜树",
     "subtype": "一孔",
     "source": "落日森林兑换",
     "attributes": [
@@ -533,10 +533,16 @@
     "subtype": "三孔",
     "source": "抽奖区",
     "attributes": [
-      "原图属性待核对"
+      "攻击23000",
+      "暴伤65%",
+      "暴击8%",
+      "雷霆8%",
+      "破甲8%",
+      "命中8%",
+      "韧性8%"
     ],
-    "confidence": "needs-review",
-    "sourceNote": "原图该行属性未能可靠识别"
+    "confidence": "verified",
+    "sourceNote": null
   },
   {
     "id": "device-036",

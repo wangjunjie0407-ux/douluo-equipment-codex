@@ -45,4 +45,4 @@ pnpm exec playwright test
 pnpm build
 ```
 
-本项目按要求仅保存到 GitHub 私有仓库，不包含网站发布或部署配置。
+本次交付按要求仅保存到 GitHub 私有仓库，不执行网站发布；仓库保留历史 Sites 配置作为项目记录。
