@@ -1,0 +1,656 @@
+[
+  {
+    "id": "device-001",
+    "kind": "soul-device",
+    "name": "蛇年大吉",
+    "subtype": "一孔",
+    "source": "活动",
+    "attributes": [
+      "攻击8888",
+      "经验10%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-002",
+    "kind": "soul-device",
+    "name": "翡翠天鹅",
+    "subtype": "一孔",
+    "source": "斗魂森林兑换",
+    "attributes": [
+      "攻击1500",
+      "破甲5%",
+      "缓慢5%",
+      "闪避5%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-003",
+    "kind": "soul-device",
+    "name": "三头赤魔",
+    "subtype": "一孔",
+    "source": "斗魂森林兑换",
+    "attributes": [
+      "攻击1500",
+      "破甲5%",
+      "暴击5%",
+      "闪避5%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-004",
+    "kind": "soul-device",
+    "name": "暗金恐爪熊",
+    "subtype": "一孔",
+    "source": "斗魂森林兑换",
+    "attributes": [
+      "攻击1500",
+      "破甲5%",
+      "暴击5%",
+      "吸率5%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-005",
+    "kind": "soul-device",
+    "name": "天青牛蟒",
+    "subtype": "一孔",
+    "source": "斗魂森林兑换",
+    "attributes": [
+      "攻击1500",
+      "破甲5%",
+      "暴击5%",
+      "点燃5%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-006",
+    "kind": "soul-device",
+    "name": "泰坦巨猿",
+    "subtype": "一孔",
+    "source": "斗魂森林兑换",
+    "attributes": [
+      "攻击1500",
+      "破甲5%",
+      "暴击5%",
+      "暴伤15%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-007",
+    "kind": "soul-device",
+    "name": "火焰狮虎",
+    "subtype": "一孔",
+    "source": "斗魂森林兑换",
+    "attributes": [
+      "攻击1500",
+      "点燃5%",
+      "暴击5%",
+      "暴伤15%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-008",
+    "kind": "soul-device",
+    "name": "金眼黑龙王",
+    "subtype": "一孔",
+    "source": "斗魂森林兑换",
+    "attributes": [
+      "攻击1500",
+      "撕裂5%",
+      "暴击5%",
+      "暴伤18%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-009",
+    "kind": "soul-device",
+    "name": "岩石守卫",
+    "subtype": "一孔",
+    "source": "落日森林兑换",
+    "attributes": [
+      "攻击1700",
+      "防御500",
+      "挡率5%",
+      "挡伤10%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-010",
+    "kind": "soul-device",
+    "name": "风之灵",
+    "subtype": "一孔",
+    "source": "落日森林兑换",
+    "attributes": [
+      "攻击1700",
+      "移速10%",
+      "缓慢5%",
+      "韧性5%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-011",
+    "kind": "soul-device",
+    "name": "铁藜树",
+    "subtype": "一孔",
+    "source": "落日森林兑换",
+    "attributes": [
+      "攻击1700",
+      "暴伤10%",
+      "反率5%",
+      "反伤15%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-012",
+    "kind": "soul-device",
+    "name": "冰封王座",
+    "subtype": "一孔",
+    "source": "落日任务",
+    "attributes": [
+      "攻击2888",
+      "暴伤35%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-013",
+    "kind": "soul-device",
+    "name": "冰天雪女",
+    "subtype": "一孔",
+    "source": "极北之地兑换",
+    "attributes": [
+      "攻击1800",
+      "缓慢10%",
+      "凋零10%",
+      "失明10%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-014",
+    "kind": "soul-device",
+    "name": "泰坦雪魔王",
+    "subtype": "一孔",
+    "source": "极北之地兑换",
+    "attributes": [
+      "攻击1800",
+      "撕裂5%",
+      "命中5%",
+      "破甲5%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-015",
+    "kind": "soul-device",
+    "name": "噬龙蚁",
+    "subtype": "一孔",
+    "source": "极北之地兑换",
+    "attributes": [
+      "攻击1800",
+      "雷霆5%",
+      "命中5%",
+      "破甲5%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-016",
+    "kind": "soul-device",
+    "name": "赛丽亚的发簪",
+    "subtype": "一孔",
+    "source": "极北之地赛丽亚兑换",
+    "attributes": [
+      "攻击8888",
+      "防御8888",
+      "生命8888",
+      "吸率5%",
+      "暴击5%",
+      "暴伤-10%",
+      "韧性5%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-017",
+    "kind": "soul-device",
+    "name": "异次元",
+    "subtype": "一孔",
+    "source": "通天洞兑换",
+    "attributes": [
+      "攻击15000",
+      "破甲10%",
+      "点燃10%",
+      "凋零10%",
+      "中毒10%",
+      "失明10%",
+      "缓慢10%",
+      "暴伤10%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-018",
+    "kind": "soul-device",
+    "name": "星陨裂空刃",
+    "subtype": "一孔",
+    "source": "抽奖区",
+    "attributes": [
+      "攻击5000",
+      "命中5%",
+      "缓慢5%",
+      "闪避5%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-019",
+    "kind": "soul-device",
+    "name": "寒冰裂界枪",
+    "subtype": "一孔",
+    "source": "抽奖区",
+    "attributes": [
+      "攻击5000",
+      "凋零10%",
+      "缓慢5%",
+      "闪避5%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-020",
+    "kind": "soul-device",
+    "name": "雷霆裁决者",
+    "subtype": "一孔",
+    "source": "抽奖区",
+    "attributes": [
+      "不详"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-021",
+    "kind": "soul-device",
+    "name": "风暴之怒",
+    "subtype": "一孔",
+    "source": "抽奖区",
+    "attributes": [
+      "不详"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-022",
+    "kind": "soul-device",
+    "name": "灵魂之链",
+    "subtype": "一孔",
+    "source": "抽奖区",
+    "attributes": [
+      "攻击8000",
+      "撕裂8%",
+      "移速8%",
+      "闪避8%",
+      "暴伤15%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-023",
+    "kind": "soul-device",
+    "name": "心灵感应器",
+    "subtype": "二孔",
+    "source": "抽奖区",
+    "attributes": [
+      "攻击9000",
+      "缓慢8%",
+      "中毒8%",
+      "点燃8%",
+      "暴击8%",
+      "暴伤15%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-024",
+    "kind": "soul-device",
+    "name": "死亡之镰",
+    "subtype": "二孔",
+    "source": "抽奖区",
+    "attributes": [
+      "不详"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-025",
+    "kind": "soul-device",
+    "name": "梦境编织者",
+    "subtype": "二孔",
+    "source": "抽奖区",
+    "attributes": [
+      "攻击12000",
+      "暴伤35%",
+      "暴击8%",
+      "韧性8%",
+      "挡率8%",
+      "挡伤20%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-026",
+    "kind": "soul-device",
+    "name": "海洋之心",
+    "subtype": "二孔",
+    "source": "抽奖区",
+    "attributes": [
+      "攻击14000",
+      "暴伤40%",
+      "暴击8%",
+      "韧性8%",
+      "移速8%",
+      "经验10%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-027",
+    "kind": "soul-device",
+    "name": "光明之剑",
+    "subtype": "二孔",
+    "source": "抽奖区",
+    "attributes": [
+      "攻击15000",
+      "暴伤45%",
+      "暴击8%",
+      "韧性8%",
+      "移速8%",
+      "经验10%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-028",
+    "kind": "soul-device",
+    "name": "末日审判",
+    "subtype": "二孔",
+    "source": "抽奖区",
+    "attributes": [
+      "攻击16000",
+      "暴伤46%",
+      "暴击8%",
+      "韧性8%",
+      "移速8%",
+      "经验10%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-029",
+    "kind": "soul-device",
+    "name": "诅咒之刃",
+    "subtype": "二孔",
+    "source": "抽奖区",
+    "attributes": [
+      "攻击17000",
+      "暴伤47%",
+      "暴击8%",
+      "韧性8%",
+      "移速8%",
+      "经验10%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-030",
+    "kind": "soul-device",
+    "name": "束缚命运之锁",
+    "subtype": "二孔",
+    "source": "抽奖区",
+    "attributes": [
+      "攻击18000",
+      "暴伤48%",
+      "暴击8%",
+      "韧性8%",
+      "移速8%",
+      "经验10%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-031",
+    "kind": "soul-device",
+    "name": "永恒哀嚎之锤",
+    "subtype": "二孔",
+    "source": "抽奖区",
+    "attributes": [
+      "攻击19000",
+      "暴伤49%",
+      "暴击8%",
+      "韧性10%",
+      "移速9%",
+      "经验10%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-032",
+    "kind": "soul-device",
+    "name": "暗界裂痕之矛",
+    "subtype": "三孔",
+    "source": "抽奖区",
+    "attributes": [
+      "攻击20000",
+      "暴伤50%",
+      "暴击8%",
+      "雷霆8%",
+      "破甲8%",
+      "命中8%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-033",
+    "kind": "soul-device",
+    "name": "蚀骨寒光之刃",
+    "subtype": "三孔",
+    "source": "抽奖区",
+    "attributes": [
+      "攻击21000",
+      "暴伤55%",
+      "暴击8%",
+      "雷霆8%",
+      "破甲8%",
+      "命中8%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-034",
+    "kind": "soul-device",
+    "name": "幽影缠绕之剑",
+    "subtype": "三孔",
+    "source": "抽奖区",
+    "attributes": [
+      "攻击22000",
+      "暴伤60%",
+      "暴击8%",
+      "雷霆8%",
+      "破甲8%",
+      "命中8%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-035",
+    "kind": "soul-device",
+    "name": "幽暗吞噬者之刃",
+    "subtype": "三孔",
+    "source": "抽奖区",
+    "attributes": [
+      "原图属性待核对"
+    ],
+    "confidence": "needs-review",
+    "sourceNote": "原图该行属性未能可靠识别"
+  },
+  {
+    "id": "device-036",
+    "kind": "soul-device",
+    "name": "噬星者",
+    "subtype": "三孔",
+    "source": "抽奖区",
+    "attributes": [
+      "攻击24000",
+      "暴伤70%",
+      "暴击8%",
+      "雷霆8%",
+      "破甲8%",
+      "命中8%",
+      "韧性8%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-037",
+    "kind": "soul-device",
+    "name": "灵魂撕裂者",
+    "subtype": "四孔",
+    "source": "抽奖区",
+    "attributes": [
+      "攻击26000",
+      "暴伤80%",
+      "暴击8%",
+      "雷霆8%",
+      "撕裂8%",
+      "破甲8%",
+      "命中8%",
+      "韧性8%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-038",
+    "kind": "soul-device",
+    "name": "永恒沉默之剑",
+    "subtype": "四孔",
+    "source": "抽奖区",
+    "attributes": [
+      "攻击28000",
+      "暴伤85%",
+      "暴击8%",
+      "雷霆8%",
+      "撕裂8%",
+      "破甲8%",
+      "命中8%",
+      "韧性8%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-039",
+    "kind": "soul-device",
+    "name": "末日预言者",
+    "subtype": "四孔",
+    "source": "抽奖区",
+    "attributes": [
+      "攻击30000",
+      "暴伤90%",
+      "暴击8%",
+      "雷霆8%",
+      "撕裂8%",
+      "破甲8%",
+      "命中8%",
+      "韧性8%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-040",
+    "kind": "soul-device",
+    "name": "龙血诅咒",
+    "subtype": "五孔",
+    "source": "抽奖区",
+    "attributes": [
+      "攻击35000",
+      "暴伤95%",
+      "暴击8%",
+      "雷霆8%",
+      "撕裂8%",
+      "破甲8%",
+      "命中8%",
+      "吸率3%",
+      "韧性8%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "device-041",
+    "kind": "soul-device",
+    "name": "普天祥瑞",
+    "subtype": "五孔",
+    "source": "抽奖区",
+    "attributes": [
+      "攻击40000",
+      "暴伤100%",
+      "暴击8%",
+      "雷霆8%",
+      "撕裂8%",
+      "破甲8%",
+      "命中8%",
+      "吸率5%",
+      "韧性8%"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  }
+]

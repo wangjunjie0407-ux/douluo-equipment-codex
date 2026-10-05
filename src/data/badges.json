@@ -1,0 +1,430 @@
+[
+  {
+    "id": "badge-001",
+    "kind": "badge",
+    "name": "魔法深渊之章",
+    "subtype": "徽章",
+    "source": null,
+    "attributes": [
+      "失明10%",
+      "点燃10%",
+      "移速10%",
+      "缓慢10%",
+      "暴伤30%",
+      "攻击6000"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "badge-002",
+    "kind": "badge",
+    "name": "幽暗魔戒徽章",
+    "subtype": "徽章",
+    "source": null,
+    "attributes": [
+      "失明10%",
+      "点燃10%",
+      "移速10%",
+      "中毒10%",
+      "暴伤32%",
+      "攻击7000"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "badge-003",
+    "kind": "badge",
+    "name": "光明与暗影徽章",
+    "subtype": "徽章",
+    "source": null,
+    "attributes": [
+      "失明10%",
+      "点燃10%",
+      "移速10%",
+      "凋零10%",
+      "暴伤35%",
+      "攻击8000"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "badge-004",
+    "kind": "badge",
+    "name": "圣剑骑士勋章",
+    "subtype": "徽章",
+    "source": null,
+    "attributes": [
+      "破甲5%",
+      "移速5%",
+      "暴击5%",
+      "暴伤30%",
+      "攻击10000"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "badge-005",
+    "kind": "badge",
+    "name": "星辰传承徽章",
+    "subtype": "徽章",
+    "source": null,
+    "attributes": [
+      "撕裂5%",
+      "移速5%",
+      "暴击5%",
+      "暴伤35%",
+      "攻击12000"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "badge-006",
+    "kind": "badge",
+    "name": "永恒之火徽章",
+    "subtype": "徽章",
+    "source": null,
+    "attributes": [
+      "点燃15%",
+      "移速7%",
+      "暴击7%",
+      "暴伤40%",
+      "攻击14000"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "badge-007",
+    "kind": "badge",
+    "name": "远古守护神徽章",
+    "subtype": "徽章",
+    "source": null,
+    "attributes": [
+      "挡伤15%",
+      "移速7%",
+      "暴击7%",
+      "暴伤45%",
+      "防御3888",
+      "攻击16000"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "badge-008",
+    "kind": "badge",
+    "name": "神谕之眼徽章",
+    "subtype": "徽章",
+    "source": null,
+    "attributes": [
+      "破甲7%",
+      "命中7%",
+      "韧性7%",
+      "暴击7%",
+      "暴伤50%",
+      "攻击18000"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "badge-009",
+    "kind": "badge",
+    "name": "皇家狮徽章",
+    "subtype": "徽章",
+    "source": null,
+    "attributes": [
+      "破甲8%",
+      "命中8%",
+      "雷霆8%",
+      "暴击8%",
+      "暴伤60%",
+      "攻击20000"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "badge-010",
+    "kind": "badge",
+    "name": "古神遗物徽章",
+    "subtype": "徽章",
+    "source": null,
+    "attributes": [
+      "生恢100",
+      "闪避5%",
+      "移速10%",
+      "撕裂8%",
+      "暴击8%",
+      "暴伤65%",
+      "攻击22000"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "badge-011",
+    "kind": "badge",
+    "name": "时光守护者勋章",
+    "subtype": "徽章",
+    "source": null,
+    "attributes": [
+      "挡率5%",
+      "反率8%",
+      "吸倍10%",
+      "撕裂8%",
+      "暴击8%",
+      "暴伤70%",
+      "攻击24000"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "badge-012",
+    "kind": "badge",
+    "name": "神话之盾徽章",
+    "subtype": "徽章",
+    "source": null,
+    "attributes": [
+      "挡率5%",
+      "挡伤35%",
+      "撕裂8%",
+      "暴击8%",
+      "暴伤75%",
+      "防御5555",
+      "攻击26000"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "badge-013",
+    "kind": "badge",
+    "name": "古卷守护者徽章",
+    "subtype": "徽章",
+    "source": null,
+    "attributes": [
+      "生恢300",
+      "反率5%",
+      "撕裂8%",
+      "暴击8%",
+      "暴伤80%",
+      "生命5000",
+      "攻击28000"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "badge-014",
+    "kind": "badge",
+    "name": "龙鳞荣耀徽章",
+    "subtype": "徽章",
+    "source": null,
+    "attributes": [
+      "吸率5%",
+      "破甲10%",
+      "雷霆8%",
+      "撕裂8%",
+      "暴击9%",
+      "暴伤85%",
+      "攻击30000"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "badge-015",
+    "kind": "badge",
+    "name": "神迹守护徽章",
+    "subtype": "徽章",
+    "source": null,
+    "attributes": [
+      "韧性5%",
+      "吸率5%",
+      "破甲10%",
+      "雷霆8%",
+      "撕裂8%",
+      "暴击9%",
+      "暴伤90%",
+      "攻击32000"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "badge-016",
+    "kind": "badge",
+    "name": "古树智慧徽章",
+    "subtype": "徽章",
+    "source": null,
+    "attributes": [
+      "韧性8%",
+      "移速8%",
+      "吸率8%",
+      "破甲10%",
+      "雷霆10%",
+      "撕裂10%",
+      "暴击10%",
+      "暴伤100%",
+      "攻击35000"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "badge-017",
+    "kind": "badge",
+    "name": "神谕启示徽章",
+    "subtype": "徽章",
+    "source": null,
+    "attributes": [
+      "韧性8%",
+      "移速8%",
+      "吸率8%",
+      "破甲10%",
+      "雷霆10%",
+      "撕裂10%",
+      "暴击10%",
+      "暴伤110%",
+      "攻击38000"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "badge-018",
+    "kind": "badge",
+    "name": "龙脉传承徽章",
+    "subtype": "徽章",
+    "source": null,
+    "attributes": [
+      "生恢500",
+      "闪避8%",
+      "移速10%",
+      "吸率9%",
+      "破甲10%",
+      "雷霆10%",
+      "撕裂10%",
+      "暴击10%",
+      "暴伤120%",
+      "攻击40000"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "badge-019",
+    "kind": "badge",
+    "name": "圣光十字徽章",
+    "subtype": "徽章",
+    "source": null,
+    "attributes": [
+      "生恢500",
+      "移速10%",
+      "吸率9%",
+      "破甲10%",
+      "雷霆10%",
+      "撕裂10%",
+      "暴击10%",
+      "暴伤130%",
+      "生命8000",
+      "攻击43000"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "badge-020",
+    "kind": "badge",
+    "name": "神域守护者徽章",
+    "subtype": "徽章",
+    "source": null,
+    "attributes": [
+      "韧性10%",
+      "点燃10%",
+      "移速10%",
+      "吸率9%",
+      "破甲10%",
+      "雷霆10%",
+      "撕裂10%",
+      "暴击10%",
+      "暴伤140%",
+      "攻击46000"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "badge-021",
+    "kind": "badge",
+    "name": "荣耀之剑骑士团徽章",
+    "subtype": "徽章",
+    "source": null,
+    "attributes": [
+      "韧性10%",
+      "点燃10%",
+      "移速10%",
+      "吸率9%",
+      "破甲10%",
+      "雷霆10%",
+      "撕裂10%",
+      "暴击10%",
+      "暴伤150%",
+      "攻击50000"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "badge-022",
+    "kind": "badge",
+    "name": "古神之怒徽章",
+    "subtype": "徽章",
+    "source": null,
+    "attributes": [
+      "韧性10%",
+      "缓慢10%",
+      "点燃10%",
+      "移速10%",
+      "吸率9%",
+      "破甲10%",
+      "雷霆10%",
+      "撕裂10%",
+      "暴击10%",
+      "暴伤160%",
+      "攻击55000"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "badge-023",
+    "kind": "badge",
+    "name": "黑暗大帝的纹章",
+    "subtype": "徽章",
+    "source": null,
+    "attributes": [
+      "韧性10%",
+      "缓慢10%",
+      "点燃10%",
+      "移速10%",
+      "吸率10%",
+      "命中10%",
+      "破甲10%",
+      "雷霆10%",
+      "撕裂10%",
+      "暴击10%",
+      "暴伤170%",
+      "攻击66666"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  }
+]

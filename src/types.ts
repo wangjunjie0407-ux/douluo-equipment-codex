@@ -33,6 +33,27 @@ export interface RangePriceRecord {
   confidence: Confidence;
 }
 
+export type EquipmentAttributeKind = "soul-device" | "soul-bone" | "badge";
+
+export interface EquipmentAttributeRecord {
+  id: string;
+  kind: EquipmentAttributeKind;
+  name: string;
+  subtype: string;
+  source: string | null;
+  attributes: string[];
+  confidence: Confidence;
+  sourceNote?: string | null;
+}
+
+export interface CriticalDamagePriceRecord {
+  id: string;
+  category: "徽章" | "魂导器";
+  slots: "三孔" | "四孔" | "五孔" | null;
+  criticalDamage: number;
+  points: number;
+}
+
 export interface DatasetMeta {
   title: string;
   dateLabel: string;

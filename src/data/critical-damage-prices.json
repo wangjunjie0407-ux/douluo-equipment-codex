@@ -1,0 +1,170 @@
+[
+  {
+    "id": "badge-price-80",
+    "category": "徽章",
+    "slots": null,
+    "criticalDamage": 80,
+    "points": 500
+  },
+  {
+    "id": "badge-price-85",
+    "category": "徽章",
+    "slots": null,
+    "criticalDamage": 85,
+    "points": 550
+  },
+  {
+    "id": "badge-price-90",
+    "category": "徽章",
+    "slots": null,
+    "criticalDamage": 90,
+    "points": 700
+  },
+  {
+    "id": "badge-price-95",
+    "category": "徽章",
+    "slots": null,
+    "criticalDamage": 95,
+    "points": 800
+  },
+  {
+    "id": "badge-price-100",
+    "category": "徽章",
+    "slots": null,
+    "criticalDamage": 100,
+    "points": 1000
+  },
+  {
+    "id": "badge-price-110",
+    "category": "徽章",
+    "slots": null,
+    "criticalDamage": 110,
+    "points": 1500
+  },
+  {
+    "id": "badge-price-120",
+    "category": "徽章",
+    "slots": null,
+    "criticalDamage": 120,
+    "points": 1800
+  },
+  {
+    "id": "badge-price-130",
+    "category": "徽章",
+    "slots": null,
+    "criticalDamage": 130,
+    "points": 2000
+  },
+  {
+    "id": "badge-price-140",
+    "category": "徽章",
+    "slots": null,
+    "criticalDamage": 140,
+    "points": 2500
+  },
+  {
+    "id": "badge-price-150",
+    "category": "徽章",
+    "slots": null,
+    "criticalDamage": 150,
+    "points": 3000
+  },
+  {
+    "id": "badge-price-160",
+    "category": "徽章",
+    "slots": null,
+    "criticalDamage": 160,
+    "points": 3500
+  },
+  {
+    "id": "badge-price-166",
+    "category": "徽章",
+    "slots": null,
+    "criticalDamage": 166,
+    "points": 4000
+  },
+  {
+    "id": "badge-price-170",
+    "category": "徽章",
+    "slots": null,
+    "criticalDamage": 170,
+    "points": 5000
+  },
+  {
+    "id": "device-price-三孔-50",
+    "category": "魂导器",
+    "slots": "三孔",
+    "criticalDamage": 50,
+    "points": 2500
+  },
+  {
+    "id": "device-price-三孔-55",
+    "category": "魂导器",
+    "slots": "三孔",
+    "criticalDamage": 55,
+    "points": 2600
+  },
+  {
+    "id": "device-price-三孔-60",
+    "category": "魂导器",
+    "slots": "三孔",
+    "criticalDamage": 60,
+    "points": 2700
+  },
+  {
+    "id": "device-price-三孔-65",
+    "category": "魂导器",
+    "slots": "三孔",
+    "criticalDamage": 65,
+    "points": 2800
+  },
+  {
+    "id": "device-price-三孔-68",
+    "category": "魂导器",
+    "slots": "三孔",
+    "criticalDamage": 68,
+    "points": 2900
+  },
+  {
+    "id": "device-price-三孔-70",
+    "category": "魂导器",
+    "slots": "三孔",
+    "criticalDamage": 70,
+    "points": 3000
+  },
+  {
+    "id": "device-price-四孔-80",
+    "category": "魂导器",
+    "slots": "四孔",
+    "criticalDamage": 80,
+    "points": 5500
+  },
+  {
+    "id": "device-price-四孔-85",
+    "category": "魂导器",
+    "slots": "四孔",
+    "criticalDamage": 85,
+    "points": 6000
+  },
+  {
+    "id": "device-price-四孔-90",
+    "category": "魂导器",
+    "slots": "四孔",
+    "criticalDamage": 90,
+    "points": 6500
+  },
+  {
+    "id": "device-price-五孔-95",
+    "category": "魂导器",
+    "slots": "五孔",
+    "criticalDamage": 95,
+    "points": 11000
+  },
+  {
+    "id": "device-price-五孔-100",
+    "category": "魂导器",
+    "slots": "五孔",
+    "criticalDamage": 100,
+    "points": 12000
+  }
+]

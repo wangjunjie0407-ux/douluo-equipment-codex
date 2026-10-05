@@ -1,0 +1,896 @@
+[
+  {
+    "id": "bone-001",
+    "kind": "soul-bone",
+    "name": "帝天头骨",
+    "subtype": "头骨",
+    "source": null,
+    "attributes": [
+      "生命4000",
+      "攻击350",
+      "撕裂4",
+      "韧性8",
+      "命中20",
+      "生恢5",
+      "移速10"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-002",
+    "kind": "soul-bone",
+    "name": "智慧头骨",
+    "subtype": "头骨",
+    "source": null,
+    "attributes": [
+      "生命9600",
+      "攻击240",
+      "格伤5"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-003",
+    "kind": "soul-bone",
+    "name": "冰龙头骨",
+    "subtype": "头骨",
+    "source": null,
+    "attributes": [
+      "生命6000",
+      "攻击280",
+      "格伤2"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-004",
+    "kind": "soul-bone",
+    "name": "光明圣龙头骨",
+    "subtype": "头骨",
+    "source": null,
+    "attributes": [
+      "生命6000",
+      "攻击888",
+      "雷霆4",
+      "韧性8",
+      "命中20",
+      "生恢5",
+      "移速10"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-005",
+    "kind": "soul-bone",
+    "name": "梦魔古树头骨",
+    "subtype": "头骨",
+    "source": null,
+    "attributes": [
+      "生命8000",
+      "攻击555",
+      "暴伤15"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-006",
+    "kind": "soul-bone",
+    "name": "星渊幽狼头骨",
+    "subtype": "头骨",
+    "source": null,
+    "attributes": [
+      "生命8000",
+      "攻击555",
+      "暴伤15"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-007",
+    "kind": "soul-bone",
+    "name": "三眼金猊头骨",
+    "subtype": "头骨",
+    "source": null,
+    "attributes": [
+      "生命15555",
+      "攻击1555",
+      "韧性10",
+      "经验2",
+      "生恢100"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-008",
+    "kind": "soul-bone",
+    "name": "巨型章鱼头骨",
+    "subtype": "头骨",
+    "source": null,
+    "attributes": [
+      "生命14000",
+      "攻击1000",
+      "格挡20",
+      "韧性8",
+      "生恢500",
+      "破甲10"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-009",
+    "kind": "soul-bone",
+    "name": "渔夫的头骨",
+    "subtype": "头骨",
+    "source": null,
+    "attributes": [
+      "生命8888",
+      "攻击1000",
+      "经验3",
+      "韧性5",
+      "生恢30"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-010",
+    "kind": "soul-bone",
+    "name": "深海之吞噬海星头骨",
+    "subtype": "头骨",
+    "source": null,
+    "attributes": [
+      "生命9999",
+      "攻击1000",
+      "韧性5",
+      "经验1",
+      "生恢50"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-011",
+    "kind": "soul-bone",
+    "name": "雪帝头骨",
+    "subtype": "头骨",
+    "source": null,
+    "attributes": [
+      "生命11000",
+      "PVP攻击力2500",
+      "反射10",
+      "韧性5",
+      "经验2",
+      "雷霆3"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-012",
+    "kind": "soul-bone",
+    "name": "淘气地精头骨",
+    "subtype": "头骨",
+    "source": null,
+    "attributes": [
+      "生命12000",
+      "攻击500",
+      "格挡10",
+      "韧性5",
+      "生恢5",
+      "破甲8"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-013",
+    "kind": "soul-bone",
+    "name": "三足乌肩骨",
+    "subtype": "肩骨",
+    "source": null,
+    "attributes": [
+      "生命9600",
+      "攻击500",
+      "闪避5",
+      "韧性5",
+      "生恢1"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-014",
+    "kind": "soul-bone",
+    "name": "雷龙肩骨",
+    "subtype": "肩骨",
+    "source": null,
+    "attributes": [
+      "生命6500",
+      "攻击200",
+      "格伤1"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-015",
+    "kind": "soul-bone",
+    "name": "无厄肩骨",
+    "subtype": "肩骨",
+    "source": null,
+    "attributes": [
+      "生命11000",
+      "PVP防御4000",
+      "格挡10"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-016",
+    "kind": "soul-bone",
+    "name": "深海之吞噬海星肩骨",
+    "subtype": "肩骨",
+    "source": null,
+    "attributes": [
+      "生命8000",
+      "PVP防御2000",
+      "格挡3"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-017",
+    "kind": "soul-bone",
+    "name": "幽谷菇灵臂骨",
+    "subtype": "肩骨",
+    "source": null,
+    "attributes": [
+      "生命8000",
+      "攻击555",
+      "经验5"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-018",
+    "kind": "soul-bone",
+    "name": "十首烈阳蛇肩骨",
+    "subtype": "肩骨",
+    "source": null,
+    "attributes": [
+      "生命9000",
+      "PVE防御3000",
+      "挡伤10"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-019",
+    "kind": "soul-bone",
+    "name": "鬼笑镰右手臂骨",
+    "subtype": "肩骨",
+    "source": null,
+    "attributes": [
+      "生命10000",
+      "攻击1500",
+      "撕裂4",
+      "韧性8",
+      "命中20",
+      "生恢200",
+      "点燃10"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-020",
+    "kind": "soul-bone",
+    "name": "魔帝左手臂骨",
+    "subtype": "肩骨",
+    "source": null,
+    "attributes": [
+      "生命10000",
+      "攻击1500",
+      "撕裂4",
+      "韧性8",
+      "命中20",
+      "生恢200",
+      "点燃10"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-021",
+    "kind": "soul-bone",
+    "name": "铁疾藜树手骨",
+    "subtype": "手骨",
+    "source": null,
+    "attributes": [
+      "生命8000",
+      "攻击555",
+      "暴伤30"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-022",
+    "kind": "soul-bone",
+    "name": "风之灵手骨",
+    "subtype": "手骨",
+    "source": null,
+    "attributes": [
+      "生命8000",
+      "攻击555",
+      "吸率5"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-023",
+    "kind": "soul-bone",
+    "name": "火龙手骨",
+    "subtype": "手骨",
+    "source": null,
+    "attributes": [
+      "生命6000",
+      "攻击150",
+      "格伤1"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-024",
+    "kind": "soul-bone",
+    "name": "帝天手骨",
+    "subtype": "手骨",
+    "source": null,
+    "attributes": [
+      "生命4000",
+      "攻击350",
+      "撕裂4",
+      "韧性8",
+      "命中20",
+      "生恢5",
+      "移速10"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-025",
+    "kind": "soul-bone",
+    "name": "迷雾织者手骨",
+    "subtype": "手骨",
+    "source": null,
+    "attributes": [
+      "生命8000",
+      "攻击555",
+      "破甲5"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-026",
+    "kind": "soul-bone",
+    "name": "圣幻魔泰坦手骨",
+    "subtype": "手骨",
+    "source": null,
+    "attributes": [
+      "生命8440",
+      "攻击力160",
+      "格挡5"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-027",
+    "kind": "soul-bone",
+    "name": "泰坦雪猿手骨",
+    "subtype": "手骨",
+    "source": null,
+    "attributes": [
+      "生命8000",
+      "攻击1200",
+      "格挡4",
+      "撕裂4",
+      "韧性5",
+      "命中20",
+      "生恢3",
+      "移速10"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-028",
+    "kind": "soul-bone",
+    "name": "冰翼鸟手骨",
+    "subtype": "手骨",
+    "source": null,
+    "attributes": [
+      "生命5000",
+      "攻击100",
+      "格挡5",
+      "韧性3",
+      "命中20",
+      "速度10",
+      "生恢1"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-029",
+    "kind": "soul-bone",
+    "name": "冰蚕手骨",
+    "subtype": "手骨",
+    "source": null,
+    "attributes": [
+      "生命4500",
+      "攻击80",
+      "格挡14",
+      "韧性2",
+      "命中18",
+      "生恢2",
+      "移速8"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-030",
+    "kind": "soul-bone",
+    "name": "火蜥蜴手骨",
+    "subtype": "手骨",
+    "source": null,
+    "attributes": [
+      "生命8000",
+      "攻击350",
+      "撕裂4",
+      "韧性8",
+      "命中20",
+      "生恢5",
+      "点燃10"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-031",
+    "kind": "soul-bone",
+    "name": "神法修罗手骨",
+    "subtype": "手骨",
+    "source": null,
+    "attributes": [
+      "攻击10000",
+      "PvP防御10000",
+      "命中8"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-032",
+    "kind": "soul-bone",
+    "name": "深海之吞噬海星手骨",
+    "subtype": "手骨",
+    "source": null,
+    "attributes": [
+      "攻击3000",
+      "PVP防御8000",
+      "命中3"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-033",
+    "kind": "soul-bone",
+    "name": "黑暗圣龙手骨",
+    "subtype": "手骨",
+    "source": null,
+    "attributes": [
+      "生命6000",
+      "攻击888",
+      "撕裂4",
+      "韧性8",
+      "凋零20",
+      "生恢5",
+      "暴伤10"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-034",
+    "kind": "soul-bone",
+    "name": "未知躯干骨",
+    "subtype": "躯干骨",
+    "source": null,
+    "attributes": [
+      "生命6500",
+      "攻击800",
+      "格挡8",
+      "韧性15",
+      "反射3",
+      "生恢1"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-035",
+    "kind": "soul-bone",
+    "name": "圣幻魔猿深海魔鲸王躯干骨",
+    "subtype": "躯干骨",
+    "source": null,
+    "attributes": [
+      "生命7200",
+      "攻击800",
+      "格伤7",
+      "韧性5",
+      "反射3",
+      "生恢1"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-036",
+    "kind": "soul-bone",
+    "name": "风龙躯干骨",
+    "subtype": "躯干骨",
+    "source": null,
+    "attributes": [
+      "生命6500",
+      "攻击300",
+      "格伤3",
+      "韧性2",
+      "反射3",
+      "生恢1"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-037",
+    "kind": "soul-bone",
+    "name": "翠绿幽灵躯干骨",
+    "subtype": "躯干骨",
+    "source": null,
+    "attributes": [
+      "生命8000",
+      "攻击300",
+      "挡伤3",
+      "韧性2",
+      "反率3",
+      "生恢1"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-038",
+    "kind": "soul-bone",
+    "name": "寒冰巨蜥躯干骨",
+    "subtype": "躯干骨",
+    "source": null,
+    "attributes": [
+      "生命8000",
+      "攻击555",
+      "调零5"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-039",
+    "kind": "soul-bone",
+    "name": "绿幕斯躯干骨",
+    "subtype": "躯干骨",
+    "source": null,
+    "attributes": [
+      "生命12000",
+      "攻击500",
+      "格伤10",
+      "中毒4",
+      "缓慢4",
+      "调零4",
+      "失明4"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-040",
+    "kind": "soul-bone",
+    "name": "妖姬躯干骨",
+    "subtype": "躯干骨",
+    "source": null,
+    "attributes": [
+      "生命16666",
+      "攻击1000",
+      "闪避10",
+      "韧性5",
+      "反射8",
+      "生恢233"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-041",
+    "kind": "soul-bone",
+    "name": "深海之吞噬海星躯干骨",
+    "subtype": "躯干骨",
+    "source": null,
+    "attributes": [
+      "生命10000",
+      "攻击555",
+      "格挡3",
+      "韧性2",
+      "反射3",
+      "生恢1"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-042",
+    "kind": "soul-bone",
+    "name": "深海霸主躯干骨",
+    "subtype": "躯干骨",
+    "source": null,
+    "attributes": [
+      "生命16000",
+      "攻击5000",
+      "挡伤10",
+      "中毒8",
+      "失明8",
+      "缓慢8",
+      "凋零8",
+      "韧性8"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-043",
+    "kind": "soul-bone",
+    "name": "蓝银皇腿骨",
+    "subtype": "腿骨",
+    "source": null,
+    "attributes": [
+      "生命12000",
+      "格伤8",
+      "韧性5",
+      "格档6",
+      "命中10"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-044",
+    "kind": "soul-bone",
+    "name": "圣幻魔猿腿",
+    "subtype": "腿骨",
+    "source": null,
+    "attributes": [
+      "生命12000",
+      "攻击200",
+      "格伤5"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-045",
+    "kind": "soul-bone",
+    "name": "惊吓女巫腿骨",
+    "subtype": "腿骨",
+    "source": null,
+    "attributes": [
+      "生命11000",
+      "攻击800",
+      "移速10",
+      "闪避4"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-046",
+    "kind": "soul-bone",
+    "name": "岩石守卫腿骨",
+    "subtype": "腿骨",
+    "source": null,
+    "attributes": [
+      "生命12888",
+      "攻击555",
+      "闪避5",
+      "韧性3"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-047",
+    "kind": "soul-bone",
+    "name": "太阳花腿骨",
+    "subtype": "腿骨",
+    "source": null,
+    "attributes": [
+      "生命8000",
+      "攻击555",
+      "暴伤10"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-048",
+    "kind": "soul-bone",
+    "name": "潮汐主宰腿骨",
+    "subtype": "腿骨",
+    "source": null,
+    "attributes": [
+      "生命8000",
+      "攻击200",
+      "移速5",
+      "吸率2"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-049",
+    "kind": "soul-bone",
+    "name": "深海之吞噬海星腿骨",
+    "subtype": "腿骨",
+    "source": null,
+    "attributes": [
+      "生命7000",
+      "攻击200",
+      "移速5",
+      "闪避2"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-050",
+    "kind": "soul-bone",
+    "name": "坤坤鸡骨",
+    "subtype": "所有",
+    "source": null,
+    "attributes": [
+      "生命5000",
+      "攻击500",
+      "缓慢2",
+      "凋零2"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-051",
+    "kind": "soul-bone",
+    "name": "风狒狒魂骨",
+    "subtype": "所有",
+    "source": null,
+    "attributes": [
+      "生命30",
+      "攻击5",
+      "格挡1"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-052",
+    "kind": "soul-bone",
+    "name": "曼陀罗蛇魂骨",
+    "subtype": "所有",
+    "source": null,
+    "attributes": [
+      "生命50",
+      "攻击10",
+      "格挡1"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-053",
+    "kind": "soul-bone",
+    "name": "火焰狮王魂骨",
+    "subtype": "所有",
+    "source": null,
+    "attributes": [
+      "生命233",
+      "攻击45",
+      "点燃2"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-054",
+    "kind": "soul-bone",
+    "name": "翠魔鸟魂骨",
+    "subtype": "所有",
+    "source": null,
+    "attributes": [
+      "生命1000",
+      "攻击100",
+      "缓慢2",
+      "调零2"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-055",
+    "kind": "soul-bone",
+    "name": "黄金叶灵骨",
+    "subtype": "所有",
+    "source": null,
+    "attributes": [
+      "生命1000",
+      "攻击200",
+      "缓慢4",
+      "暴伤8"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-056",
+    "kind": "soul-bone",
+    "name": "林间幽影骨",
+    "subtype": "所有",
+    "source": null,
+    "attributes": [
+      "生命1222",
+      "攻击180",
+      "缓慢4",
+      "凋零4"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "bone-057",
+    "kind": "soul-bone",
+    "name": "银妖藤骨",
+    "subtype": "所有",
+    "source": null,
+    "attributes": [
+      "生命1100",
+      "攻击150",
+      "缓慢4",
+      "凋零4"
+    ],
+    "confidence": "verified",
+    "sourceNote": null
+  }
+]
