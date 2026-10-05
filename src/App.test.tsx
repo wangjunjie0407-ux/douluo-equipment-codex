@@ -18,4 +18,20 @@ describe("dashboard modules", () => {
     fireEvent.click(screen.getByRole("button", { name: "清除筛选" }));
     expect(screen.queryByText("没有找到匹配的魂环")).not.toBeInTheDocument();
   });
+
+  it("preserves each module's search state across tab switches", () => {
+    render(<App />);
+
+    const ringSearch = screen.getByLabelText("搜索魂环");
+    fireEvent.change(ringSearch, { target: { value: "风狒狒" } });
+    fireEvent.click(screen.getByRole("button", { name: /装备物价表/ }));
+
+    const marketSearch = screen.getByLabelText("搜索物品");
+    fireEvent.change(marketSearch, { target: { value: "龙金" } });
+    fireEvent.click(screen.getByRole("button", { name: /魂环资料库/ }));
+    expect(screen.getByLabelText("搜索魂环")).toHaveValue("风狒狒");
+
+    fireEvent.click(screen.getByRole("button", { name: /装备物价表/ }));
+    expect(screen.getByLabelText("搜索物品")).toHaveValue("龙金");
+  });
 });

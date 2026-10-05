@@ -22,7 +22,10 @@ export default function App() {
         <div className="header-stats"><span><b>{soulRings.length + marketItems.length + rangePrices.length}</b> 条资料</span><span><b>{reviewCount}</b> 待核对</span></div>
       </header>
       <ModuleTabs active={active} onChange={setActive} ringCount={soulRings.length} marketCount={marketItems.length + rangePrices.length} />
-      <main>{active === "rings" ? <SoulRingModule records={soulRings} /> : <MarketModule records={marketItems} ranges={rangePrices} />}</main>
+      <main>
+        <div hidden={active !== "rings"}><SoulRingModule records={soulRings} /></div>
+        <div hidden={active !== "market"}><MarketModule records={marketItems} ranges={rangePrices} /></div>
+      </main>
       <footer><p>数据整理自用户提供图片 · 物价记录时间：2026.8</p><p>“待核对”表示原图文字较小或识别置信度不足。</p></footer>
     </div>
   );
