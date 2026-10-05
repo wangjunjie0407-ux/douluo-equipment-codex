@@ -1,0 +1,200 @@
+[
+  {
+    "id": "range-01",
+    "type": "暗器",
+    "attributeRange": "100-120",
+    "minPrice": 100,
+    "maxPrice": 200,
+    "displayPrice": "100-200 点券",
+    "confidence": "verified"
+  },
+  {
+    "id": "range-02",
+    "type": "暗器",
+    "attributeRange": "121-140",
+    "minPrice": 200,
+    "maxPrice": 400,
+    "displayPrice": "200-400 点券",
+    "confidence": "verified"
+  },
+  {
+    "id": "range-03",
+    "type": "暗器",
+    "attributeRange": "141-160",
+    "minPrice": 400,
+    "maxPrice": 800,
+    "displayPrice": "400-800 点券",
+    "confidence": "verified"
+  },
+  {
+    "id": "range-04",
+    "type": "暗器",
+    "attributeRange": "160-169",
+    "minPrice": 800,
+    "maxPrice": 1200,
+    "displayPrice": "800-1200 点券",
+    "confidence": "verified"
+  },
+  {
+    "id": "range-05",
+    "type": "暗器",
+    "attributeRange": "170-179",
+    "minPrice": 1200,
+    "maxPrice": 1500,
+    "displayPrice": "1200-1500 点券",
+    "confidence": "verified"
+  },
+  {
+    "id": "range-06",
+    "type": "暗器",
+    "attributeRange": "180-189",
+    "minPrice": 1500,
+    "maxPrice": 2000,
+    "displayPrice": "1500-2000 点券",
+    "confidence": "verified"
+  },
+  {
+    "id": "range-07",
+    "type": "暗器",
+    "attributeRange": "190-199",
+    "minPrice": 2000,
+    "maxPrice": 2500,
+    "displayPrice": "2000-2500 点券",
+    "confidence": "verified"
+  },
+  {
+    "id": "range-08",
+    "type": "暗器",
+    "attributeRange": "200-209",
+    "minPrice": 2500,
+    "maxPrice": 3000,
+    "displayPrice": "2500-3000 点券",
+    "confidence": "verified"
+  },
+  {
+    "id": "range-09",
+    "type": "暗器",
+    "attributeRange": "210-219",
+    "minPrice": 3000,
+    "maxPrice": 3500,
+    "displayPrice": "3000-3500 点券",
+    "confidence": "verified"
+  },
+  {
+    "id": "range-10",
+    "type": "暗器",
+    "attributeRange": "220-229",
+    "minPrice": 3500,
+    "maxPrice": 4500,
+    "displayPrice": "3500-4500 点券",
+    "confidence": "verified"
+  },
+  {
+    "id": "range-11",
+    "type": "暗器",
+    "attributeRange": "230-249",
+    "minPrice": 4500,
+    "maxPrice": 9000,
+    "displayPrice": "4500-9000 点券",
+    "confidence": "verified"
+  },
+  {
+    "id": "range-12",
+    "type": "暗器",
+    "attributeRange": "250+",
+    "minPrice": 9000,
+    "maxPrice": null,
+    "displayPrice": "9000+ 点券",
+    "confidence": "verified"
+  },
+  {
+    "id": "range-13",
+    "type": "戒指",
+    "attributeRange": "50-79",
+    "minPrice": 49,
+    "maxPrice": 99,
+    "displayPrice": "49-99 点券",
+    "confidence": "needs-review"
+  },
+  {
+    "id": "range-14",
+    "type": "戒指",
+    "attributeRange": "79-89",
+    "minPrice": 100,
+    "maxPrice": 150,
+    "displayPrice": "100-150 点券",
+    "confidence": "verified"
+  },
+  {
+    "id": "range-15",
+    "type": "戒指",
+    "attributeRange": "90-99",
+    "minPrice": 150,
+    "maxPrice": 200,
+    "displayPrice": "150-200 点券",
+    "confidence": "verified"
+  },
+  {
+    "id": "range-16",
+    "type": "戒指",
+    "attributeRange": "100-109",
+    "minPrice": 200,
+    "maxPrice": 350,
+    "displayPrice": "200-350 点券",
+    "confidence": "verified"
+  },
+  {
+    "id": "range-17",
+    "type": "戒指",
+    "attributeRange": "110-119",
+    "minPrice": 350,
+    "maxPrice": 500,
+    "displayPrice": "350-500 点券",
+    "confidence": "verified"
+  },
+  {
+    "id": "range-18",
+    "type": "戒指",
+    "attributeRange": "120-129",
+    "minPrice": 500,
+    "maxPrice": 700,
+    "displayPrice": "500-700 点券",
+    "confidence": "verified"
+  },
+  {
+    "id": "range-19",
+    "type": "戒指",
+    "attributeRange": "130-139",
+    "minPrice": 700,
+    "maxPrice": 1000,
+    "displayPrice": "700-1000 点券",
+    "confidence": "verified"
+  },
+  {
+    "id": "range-20",
+    "type": "戒指",
+    "attributeRange": "140-149",
+    "minPrice": 1500,
+    "maxPrice": null,
+    "displayPrice": "1500左右 点券",
+    "confidence": "verified"
+  },
+  {
+    "id": "range-21",
+    "type": "戒指",
+    "attributeRange": "150-159",
+    "minPrice": 2000,
+    "maxPrice": null,
+    "displayPrice": "2000左右 点券",
+    "confidence": "needs-review"
+  },
+  {
+    "id": "range-22",
+    "type": "戒指",
+    "attributeRange": "160+",
+    "minPrice": 2500,
+    "maxPrice": null,
+    "displayPrice": "2500+ 点券",
+    "confidence": "verified"
+  }
+]

@@ -1,0 +1,3963 @@
+[
+  {
+    "id": "ring-001",
+    "name": "鸡公煲",
+    "years": "未知年份",
+    "yearTier": "other",
+    "attributes": [
+      "移速5%",
+      "经验10%",
+      "暴伤10%",
+      "攻击2222"
+    ],
+    "source": "限时活动",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-002",
+    "name": "一马当先",
+    "years": "未知年份",
+    "yearTier": "other",
+    "attributes": [
+      "移速10%",
+      "经验5%",
+      "暴伤10%",
+      "攻击3333"
+    ],
+    "source": "限时活动",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-003",
+    "name": "风狒狒",
+    "years": "十年",
+    "yearTier": "other",
+    "attributes": [
+      "闪避3%",
+      "攻击力14"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-004",
+    "name": "银狼",
+    "years": "十年",
+    "yearTier": "other",
+    "attributes": [
+      "破甲3%",
+      "攻击力17"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-005",
+    "name": "啮齿鼬",
+    "years": "十年",
+    "yearTier": "other",
+    "attributes": [
+      "破甲3%",
+      "攻击力13"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-006",
+    "name": "孤竹",
+    "years": "十年",
+    "yearTier": "other",
+    "attributes": [
+      "格挡4%",
+      "攻击力8"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-007",
+    "name": "金狼",
+    "years": "十年",
+    "yearTier": "other",
+    "attributes": [
+      "暴击2%",
+      "攻击力20"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-008",
+    "name": "幽冥狼",
+    "years": "十年",
+    "yearTier": "other",
+    "attributes": [
+      "凋零2%",
+      "攻击力18"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-009",
+    "name": "斑澜猫",
+    "years": "十年",
+    "yearTier": "other",
+    "attributes": [
+      "反率2%",
+      "攻击力15"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-010",
+    "name": "风狒狒",
+    "years": "狂化十年",
+    "yearTier": "other",
+    "attributes": [
+      "闪避1%",
+      "攻击力80"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-011",
+    "name": "啮齿鼬",
+    "years": "狂化十年",
+    "yearTier": "other",
+    "attributes": [
+      "破防5%",
+      "攻击力130"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.93"
+  },
+  {
+    "id": "ring-012",
+    "name": "孤竹",
+    "years": "狂化十年",
+    "yearTier": "other",
+    "attributes": [
+      "格挡6%",
+      "攻击力180"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-013",
+    "name": "金狼",
+    "years": "狂化十年",
+    "yearTier": "other",
+    "attributes": [
+      "暴击4%",
+      "攻击力120"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-014",
+    "name": "幽冥狼",
+    "years": "狂化十年",
+    "yearTier": "other",
+    "attributes": [
+      "凋零5%",
+      "攻击力180"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-015",
+    "name": "斑澜猫",
+    "years": "狂化十年",
+    "yearTier": "other",
+    "attributes": [
+      "反率4%",
+      "攻击力150"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-016",
+    "name": "曼陀罗蛇",
+    "years": "百年",
+    "yearTier": "other",
+    "attributes": [
+      "中毒6%",
+      "攻击力88"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-017",
+    "name": "狼盗",
+    "years": "百年",
+    "yearTier": "other",
+    "attributes": [
+      "吸倍10%",
+      "吸率5%",
+      "攻击力91"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-018",
+    "name": "疾风魔狼",
+    "years": "百年",
+    "yearTier": "other",
+    "attributes": [
+      "速度8%",
+      "暴击5%",
+      "攻击力99"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-019",
+    "name": "鬼藤",
+    "years": "百年",
+    "yearTier": "other",
+    "attributes": [
+      "韧性5%",
+      "反率5%",
+      "玫击力78"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-020",
+    "name": "风灵狼",
+    "years": "百年",
+    "yearTier": "other",
+    "attributes": [
+      "撕裂1%",
+      "攻击力96"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-021",
+    "name": "冰碧蝎",
+    "years": "百年",
+    "yearTier": "other",
+    "attributes": [
+      "吸倍10%",
+      "吸率2%",
+      "攻击力300"
+    ],
+    "source": "抽奖区",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-022",
+    "name": "曼陀罗蛇",
+    "years": "狂化百年",
+    "yearTier": "other",
+    "attributes": [
+      "中毒9%",
+      "攻击力488"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-023",
+    "name": "狼盗",
+    "years": "狂化百年",
+    "yearTier": "other",
+    "attributes": [
+      "吸倍15%",
+      "吸率2%",
+      "攻击力491"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-024",
+    "name": "疾风魔狼",
+    "years": "狂化百年",
+    "yearTier": "other",
+    "attributes": [
+      "速度10%",
+      "暴击4%",
+      "攻击力499"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-025",
+    "name": "鬼藤",
+    "years": "狂化百年",
+    "yearTier": "other",
+    "attributes": [
+      "韧性6%",
+      "反率6%",
+      "攻击力478"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-026",
+    "name": "风灵狼",
+    "years": "狂化百年",
+    "yearTier": "other",
+    "attributes": [
+      "撕裂1%",
+      "攻击力496"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-027",
+    "name": "纷红娘娘",
+    "years": "干年",
+    "yearTier": "other",
+    "attributes": [
+      "反率6%",
+      "中毒5%",
+      "攻击力400"
+    ],
+    "source": "斗魂森林",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.75"
+  },
+  {
+    "id": "ring-028",
+    "name": "鬼虎",
+    "years": "千年",
+    "yearTier": "10k",
+    "attributes": [
+      "暴击4%",
+      "撕裂1%",
+      "攻击力495"
+    ],
+    "source": "斗魂森林",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.85"
+  },
+  {
+    "id": "ring-029",
+    "name": "四眼鳞甲兽",
+    "years": "千年",
+    "yearTier": "10k",
+    "attributes": [
+      "生命恢复5",
+      "格挡6%",
+      "攻击力350"
+    ],
+    "source": "斗魂森林",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.88"
+  },
+  {
+    "id": "ring-030",
+    "name": "人面魔蛛",
+    "years": "干年",
+    "yearTier": "other",
+    "attributes": [
+      "韧性5%",
+      "命中6%",
+      "攻击力489"
+    ],
+    "source": "斗魂森林",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.77"
+  },
+  {
+    "id": "ring-031",
+    "name": "闪电兔",
+    "years": "千年",
+    "yearTier": "10k",
+    "attributes": [
+      "闪避3%",
+      "雷霆1%",
+      "攻击力378"
+    ],
+    "source": "斗魂森林",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.92"
+  },
+  {
+    "id": "ring-032",
+    "name": "大地之王",
+    "years": "千年",
+    "yearTier": "10k",
+    "attributes": [
+      "韧性5%",
+      "破甲6%",
+      "攻击力417"
+    ],
+    "source": "斗魂森林",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.92"
+  },
+  {
+    "id": "ring-033",
+    "name": "火焰狮王",
+    "years": "千年",
+    "yearTier": "10k",
+    "attributes": [
+      "撕裂1%",
+      "点燃6%",
+      "攻击力468"
+    ],
+    "source": "斗魂森林",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.85"
+  },
+  {
+    "id": "ring-034",
+    "name": "凤尾鸡冠蛇",
+    "years": "千年",
+    "yearTier": "10k",
+    "attributes": [
+      "凋零5%",
+      "闪避3%",
+      "攻击力434"
+    ],
+    "source": "斗魂森林",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.79"
+  },
+  {
+    "id": "ring-035",
+    "name": "魔鹿",
+    "years": "千年",
+    "yearTier": "10k",
+    "attributes": [
+      "命中8%",
+      "速度6%",
+      "攻击力530"
+    ],
+    "source": "斗魂森林",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.86"
+  },
+  {
+    "id": "ring-036",
+    "name": "魔蜥龙",
+    "years": "千年",
+    "yearTier": "10k",
+    "attributes": [
+      "撕裂1%",
+      "缓慢7%",
+      "攻击力500"
+    ],
+    "source": "斗魂森林",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.88"
+  },
+  {
+    "id": "ring-037",
+    "name": "赤眼猪妖",
+    "years": "千年",
+    "yearTier": "10k",
+    "attributes": [
+      "反率6%",
+      "中毒8%",
+      "攻击力500"
+    ],
+    "source": "极北之地",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.87"
+  },
+  {
+    "id": "ring-038",
+    "name": "三足乌",
+    "years": "千年",
+    "yearTier": "10k",
+    "attributes": [
+      "凋零5%",
+      "闪避5%",
+      "攻击力500"
+    ],
+    "source": "极北之地",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.81"
+  },
+  {
+    "id": "ring-039",
+    "name": "九婴",
+    "years": "干年",
+    "yearTier": "other",
+    "attributes": [
+      "命中10%",
+      "速度8%",
+      "玫击力530"
+    ],
+    "source": "极北之地",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.77"
+  },
+  {
+    "id": "ring-040",
+    "name": "纷红娘娘",
+    "years": "变异五千年",
+    "yearTier": "10k",
+    "attributes": [
+      "生命恢复5",
+      "防御力10",
+      "生命加成400"
+    ],
+    "source": "腐化洞穴",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-041",
+    "name": "鬼虎",
+    "years": "变异五千年",
+    "yearTier": "10k",
+    "attributes": [
+      "生命恢复5",
+      "防御力10",
+      "生命加成400"
+    ],
+    "source": "腐化洞穴",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-042",
+    "name": "四眼鳞甲兽",
+    "years": "变异五千年",
+    "yearTier": "10k",
+    "attributes": [
+      "生命恢复5",
+      "防御力10",
+      "生命加成410"
+    ],
+    "source": "腐化洞穴",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.92"
+  },
+  {
+    "id": "ring-043",
+    "name": "人面魔蛛",
+    "years": "变异五千年",
+    "yearTier": "10k",
+    "attributes": [
+      "生命恢复5",
+      "防御力10",
+      "生命加成460"
+    ],
+    "source": "腐化洞穴",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-044",
+    "name": "闪电兔",
+    "years": "变异五千年",
+    "yearTier": "10k",
+    "attributes": [
+      "速度1%",
+      "防御力10",
+      "生命加成470"
+    ],
+    "source": "腐化洞穴",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.94"
+  },
+  {
+    "id": "ring-045",
+    "name": "大地之王",
+    "years": "变异五千年",
+    "yearTier": "10k",
+    "attributes": [
+      "生命恢复5",
+      "防御力10",
+      "生命加成470"
+    ],
+    "source": "腐化洞穴",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-046",
+    "name": "火焰狮王",
+    "years": "变异五千年",
+    "yearTier": "10k",
+    "attributes": [
+      "生命恢复5",
+      "防御力10",
+      "生命加成410"
+    ],
+    "source": "腐化洞穴",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-047",
+    "name": "魔鹿",
+    "years": "变异五千年",
+    "yearTier": "10k",
+    "attributes": [
+      "生命恢复5",
+      "防御力10",
+      "生命加成500"
+    ],
+    "source": "腐化洞穴",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-048",
+    "name": "魔蜥龙",
+    "years": "变异五千年",
+    "yearTier": "10k",
+    "attributes": [
+      "生命恢复5",
+      "防御力10",
+      "生命加成480"
+    ],
+    "source": "腐化洞穴",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-049",
+    "name": "狂化粉红娘娘",
+    "years": "狂化千年",
+    "yearTier": "10k",
+    "attributes": [
+      "反射8%",
+      "中毒6%",
+      "攻击力1000"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.92"
+  },
+  {
+    "id": "ring-050",
+    "name": "狂化鬼虎",
+    "years": "狂化干年",
+    "yearTier": "other",
+    "attributes": [
+      "暴击5%",
+      "撕裂2%",
+      "攻击力1495"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.89"
+  },
+  {
+    "id": "ring-051",
+    "name": "狂化四眼鳞甲兽",
+    "years": "狂化千年",
+    "yearTier": "10k",
+    "attributes": [
+      "生命恢复2",
+      "挡率4%",
+      "攻击力1350"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.90"
+  },
+  {
+    "id": "ring-052",
+    "name": "狂化人面蜘蛛",
+    "years": "狂化干年",
+    "yearTier": "other",
+    "attributes": [
+      "韧性6%",
+      "命中8%",
+      "攻击力1489"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.89"
+  },
+  {
+    "id": "ring-053",
+    "name": "狂化闪电兔",
+    "years": "狂化干年",
+    "yearTier": "other",
+    "attributes": [
+      "闪避3%",
+      "雷霆1%",
+      "攻击力808"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-054",
+    "name": "狂化大地之王",
+    "years": "狂化干年",
+    "yearTier": "other",
+    "attributes": [
+      "韧性7%",
+      "破甲8%",
+      "攻击力1417"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.92"
+  },
+  {
+    "id": "ring-055",
+    "name": "狂化火焰狮王",
+    "years": "狂化干年",
+    "yearTier": "other",
+    "attributes": [
+      "撕裂2%",
+      "点燃7%",
+      "攻击力1468"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.92"
+  },
+  {
+    "id": "ring-056",
+    "name": "狂化凤尾鸡冠蛇",
+    "years": "狂化干年",
+    "yearTier": "other",
+    "attributes": [
+      "凋零6%",
+      "闪避3%",
+      "攻击力1434"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.92"
+  },
+  {
+    "id": "ring-057",
+    "name": "狂化魔鹿",
+    "years": "狂化干年",
+    "yearTier": "other",
+    "attributes": [
+      "命中10%",
+      "速度8%",
+      "攻击力1530"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.88"
+  },
+  {
+    "id": "ring-058",
+    "name": "狂化魔蜥龙",
+    "years": "狂化干年",
+    "yearTier": "other",
+    "attributes": [
+      "撕裂2%",
+      "缓慢6%",
+      "攻击力1500"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.94"
+  },
+  {
+    "id": "ring-059",
+    "name": "地穴魔蛛",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "撕裂1%",
+      "中毒8%",
+      "攻击力900"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-060",
+    "name": "翠魔鸟",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "吸倍10%",
+      "吸率3%",
+      "撕裂1%",
+      "速度15%",
+      "攻击力950"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-061",
+    "name": "雷鸣阎狱藤",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "经验加成1%",
+      "雷霆1%",
+      "玫击力900"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-062",
+    "name": "暗黑邪神虎",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "中毒8%",
+      "吸血4%",
+      "攻击力999"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-063",
+    "name": "镜像兽",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "挡伤10%",
+      "挡率2%",
+      "反伤10%",
+      "反率2%",
+      "攻击力750"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-064",
+    "name": "剑齿鱼",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "命中10%",
+      "挡伤10%",
+      "挡率2%",
+      "攻击力750"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-065",
+    "name": "风狮鹰",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "破甲6%",
+      "反伤10%",
+      "反率2%",
+      "攻击力860"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-066",
+    "name": "蓝风凰",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "点燃7%",
+      "缓慢7%",
+      "攻击力864"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-067",
+    "name": "干钧蚁皇",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "挡伤10%",
+      "挡率2%",
+      "攻击力980"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-068",
+    "name": "冰霜巨木",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "凋零10%",
+      "点燃6%",
+      "中毒8%",
+      "缓慢10%",
+      "攻击力917"
+    ],
+    "source": "落日森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-069",
+    "name": "银妖藤",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "暴击3%",
+      "暴伤15%",
+      "缓慢5%",
+      "撕裂1%",
+      "攻击力999"
+    ],
+    "source": "落日森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-070",
+    "name": "金光菊仙",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "暴伤10%",
+      "闪避8%",
+      "暴击3%",
+      "攻击力989"
+    ],
+    "source": "落日森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-071",
+    "name": "黄金叶灵",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "雷霆3%",
+      "撕裂3%",
+      "暴伤10%",
+      "攻击力1010"
+    ],
+    "source": "落日森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-072",
+    "name": "紫罗蔓藤",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "凋零10%",
+      "破甲8%",
+      "中毒15%",
+      "攻击力966"
+    ],
+    "source": "落日森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-073",
+    "name": "绿影猎手",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "命中8%",
+      "破甲8%",
+      "暴击5%",
+      "攻击力988"
+    ],
+    "source": "落日森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-074",
+    "name": "幽谷百合",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "经验2%",
+      "挡伤15%",
+      "反伤15%",
+      "坚韧6%",
+      "攻击力1000"
+    ],
+    "source": "落日森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-075",
+    "name": "石楠花",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "经验2%",
+      "雷霆4%",
+      "闪避4%",
+      "坚韧6%",
+      "攻击力998"
+    ],
+    "source": "落日森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-076",
+    "name": "林间幽影",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "速度6%",
+      "撕裂2%",
+      "挡伤8%",
+      "反伤8%",
+      "攻击力985"
+    ],
+    "source": "落日森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-077",
+    "name": "灵香草",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "闪避8%",
+      "命中8%",
+      "韧性4%",
+      "攻击888"
+    ],
+    "source": "落日森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-078",
+    "name": "祸斗",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "撕裂3%",
+      "失明5%",
+      "吸率5%",
+      "攻击力1000"
+    ],
+    "source": "极北之地",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-079",
+    "name": "化蛇",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "破甲10%",
+      "反伤30%",
+      "反率10%",
+      "攻击力960"
+    ],
+    "source": "极北之地",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-080",
+    "name": "冰蚕",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "挡伤10%",
+      "挡率2%",
+      "反伤10%",
+      "反率2%",
+      "攻击力750"
+    ],
+    "source": "极北之地",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-081",
+    "name": "冰翼鸟",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "破甲6%",
+      "反伤10%",
+      "反率2%",
+      "攻击力830"
+    ],
+    "source": "极北之地",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-082",
+    "name": "冰碧蝎",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "撕裂1%",
+      "破甲9%",
+      "缓慢10%",
+      "攻击力910"
+    ],
+    "source": "极北之地",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-083",
+    "name": "泰坦雪猿",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "吸倍10%",
+      "吸率3%",
+      "撕裂1%",
+      "速度15%",
+      "攻击力950"
+    ],
+    "source": "极北之地",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-084",
+    "name": "地府守卫",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "闪避10%",
+      "PVP防御力1000",
+      "攻击力2000"
+    ],
+    "source": "神秘空间",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-085",
+    "name": "九节翡翠",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "暴伤10%",
+      "生命恢复100",
+      "攻击力2050"
+    ],
+    "source": "神秘空间",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-086",
+    "name": "火云犀甲牛",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "暴率3%",
+      "点燃6%",
+      "攻击力2088"
+    ],
+    "source": "神秘空间",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-087",
+    "name": "黑面蜘蛛",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "撕裂3%",
+      "中毒11%",
+      "攻击力2099"
+    ],
+    "source": "神秘空间",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-088",
+    "name": "妖眼魔树",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "反伤10%",
+      "反率4%",
+      "收击力2011"
+    ],
+    "source": "神秘空间",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-089",
+    "name": "悬天护卫",
+    "years": "万年",
+    "yearTier": "100k",
+    "attributes": [
+      "吸率1%",
+      "吸倍8%",
+      "暴伤10%",
+      "防御50",
+      "攻击1959"
+    ],
+    "source": "悬天崖",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-090",
+    "name": "地穴魔蛛",
+    "years": "变异五万年",
+    "yearTier": "100k",
+    "attributes": [
+      "生命恢复10",
+      "防御力20",
+      "生命加成750"
+    ],
+    "source": "腐化洞穴",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-091",
+    "name": "翠魔鸟",
+    "years": "变异五万年",
+    "yearTier": "100k",
+    "attributes": [
+      "生命恢复10",
+      "防御力25",
+      "生命加成930"
+    ],
+    "source": "腐化洞穴",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-092",
+    "name": "雷鸣阎狱藤",
+    "years": "变异五万年",
+    "yearTier": "100k",
+    "attributes": [
+      "生命恢复12",
+      "防御力25",
+      "生命加成950"
+    ],
+    "source": "腐化洞穴",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-093",
+    "name": "暗黑邪神虎",
+    "years": "变异五万年",
+    "yearTier": "100k",
+    "attributes": [
+      "生命恢复10",
+      "防御力20",
+      "生命加成790"
+    ],
+    "source": "腐化洞穴",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-094",
+    "name": "镜像兽",
+    "years": "变异五万年",
+    "yearTier": "100k",
+    "attributes": [
+      "生命恢复10",
+      "防御力20",
+      "生命加成770"
+    ],
+    "source": "腐化洞穴",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-095",
+    "name": "剑齿鱼",
+    "years": "变异五万年",
+    "yearTier": "100k",
+    "attributes": [
+      "生命恢复10",
+      "防御力20",
+      "生命加成770"
+    ],
+    "source": "腐化洞穴",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-096",
+    "name": "风狮鹰",
+    "years": "变异五万年",
+    "yearTier": "100k",
+    "attributes": [
+      "生命恢复8",
+      "防御力18",
+      "生命加成850"
+    ],
+    "source": "腐化洞穴",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-097",
+    "name": "蓝风凰",
+    "years": "变异五万年",
+    "yearTier": "100k",
+    "attributes": [
+      "生命恢复10",
+      "防御力20",
+      "生命加成830"
+    ],
+    "source": "腐化洞穴",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-098",
+    "name": "干钧蚁皇",
+    "years": "变异五万年",
+    "yearTier": "100k",
+    "attributes": [
+      "生命恢复11",
+      "防御力22",
+      "生命加成810"
+    ],
+    "source": "腐化洞穴",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.90"
+  },
+  {
+    "id": "ring-099",
+    "name": "冰碧蝎",
+    "years": "变异五万年",
+    "yearTier": "100k",
+    "attributes": [
+      "生命恢复11",
+      "防御力20",
+      "生命加成900"
+    ],
+    "source": "腐化洞穴",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-100",
+    "name": "狂化翠魔鸟",
+    "years": "狂化万年",
+    "yearTier": "100k",
+    "attributes": [
+      "吸倍15%",
+      "吸率4%",
+      "撕裂2%",
+      "速度16%",
+      "攻击力1950"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-101",
+    "name": "狂化雷鸣阎狱藤",
+    "years": "狂化万年",
+    "yearTier": "100k",
+    "attributes": [
+      "雷霆2%",
+      "撕裂2%",
+      "攻击力1900"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-102",
+    "name": "狂化暗黑邪神虎",
+    "years": "狂化万年",
+    "yearTier": "100k",
+    "attributes": [
+      "撕裂2%",
+      "吸率5%",
+      "攻击力1999"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-103",
+    "name": "狂化镜像兽",
+    "years": "狂化万年",
+    "yearTier": "100k",
+    "attributes": [
+      "挡伤21%",
+      "挡率6%",
+      "反伤21%",
+      "反率7%",
+      "攻击力1750"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-104",
+    "name": "狂化剑齿鱼",
+    "years": "狂化万年",
+    "yearTier": "100k",
+    "attributes": [
+      "命中11%",
+      "挡伤16%",
+      "挡率3%",
+      "攻击力1750"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-105",
+    "name": "狂化风狮鹰",
+    "years": "狂化万年",
+    "yearTier": "100k",
+    "attributes": [
+      "破甲7%",
+      "反伤35%",
+      "反率7%",
+      "攻击力1860"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-106",
+    "name": "狂化蓝风凰",
+    "years": "狂化万年",
+    "yearTier": "100k",
+    "attributes": [
+      "雷霆2%",
+      "缓慢10%",
+      "攻击力1864"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-107",
+    "name": "狂化干钧蚁皇",
+    "years": "狂化万年",
+    "yearTier": "100k",
+    "attributes": [
+      "挡伤11%",
+      "挡率7%",
+      "攻击力1750"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-108",
+    "name": "狂化冰碧蝎",
+    "years": "狂化万年",
+    "yearTier": "100k",
+    "attributes": [
+      "撕裂2%",
+      "破甲10%",
+      "缓慢11%",
+      "攻击力1910"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-109",
+    "name": "狂化冰霜巨木",
+    "years": "狂化万年",
+    "yearTier": "100k",
+    "attributes": [
+      "调零1"
+    ],
+    "source": "兽潮深外",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.87"
+  },
+  {
+    "id": "ring-110",
+    "name": "狂化银妖藤",
+    "years": "狂化万年",
+    "yearTier": "100k",
+    "attributes": [
+      "暴击4%",
+      "暴伤18%",
+      "缓慢6%",
+      "撕裂2%",
+      "攻击力1999"
+    ],
+    "source": "兽潮深处",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-111",
+    "name": "狂化金光菊仙",
+    "years": "狂化万年",
+    "yearTier": "100k",
+    "attributes": [
+      "暴伤13%",
+      "闪避9%",
+      "暴击%",
+      "攻击力1989"
+    ],
+    "source": "兽潮深处",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-112",
+    "name": "狂化黄金叶灵",
+    "years": "狂化万年",
+    "yearTier": "100k",
+    "attributes": [
+      "雷霆4%",
+      "撕裂4%",
+      "暴伤13%",
+      "攻击力2010"
+    ],
+    "source": "兽潮深处",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-113",
+    "name": "狂化紫罗蔓藤",
+    "years": "狂化万年",
+    "yearTier": "100k",
+    "attributes": [
+      "调零13%",
+      "破甲9%",
+      "中毒18%",
+      "攻击力1966"
+    ],
+    "source": "兽潮深处",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-114",
+    "name": "狂化绿影猎手",
+    "years": "狂化万年",
+    "yearTier": "100k",
+    "attributes": [
+      "命中9%",
+      "破甲9%",
+      "暴击7%",
+      "攻击力1988"
+    ],
+    "source": "兽潮深处",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-115",
+    "name": "狂化幽谷百合",
+    "years": "狂化万年",
+    "yearTier": "100k",
+    "attributes": [
+      "经验3%",
+      "挡伤18%",
+      "反伤18%",
+      "坚韧7%",
+      "攻击力2000"
+    ],
+    "source": "兽潮深处",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-116",
+    "name": "狂化石楠花",
+    "years": "狂化万年",
+    "yearTier": "100k",
+    "attributes": [
+      "经验3%",
+      "雷霆5%",
+      "闪避6%",
+      "坚韧7%",
+      "攻击力1998"
+    ],
+    "source": "兽潮深处",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-117",
+    "name": "狂化林间幽影",
+    "years": "狂化万年",
+    "yearTier": "100k",
+    "attributes": [
+      "速度8%",
+      "撕裂4%",
+      "挡伤10%",
+      "反伤10%",
+      "攻击力1985"
+    ],
+    "source": "兽潮深处",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-118",
+    "name": "狂化灵香草",
+    "years": "狂化万年",
+    "yearTier": "100k",
+    "attributes": [
+      "闪避9%",
+      "命中9%",
+      "韧性5%",
+      "攻击1888"
+    ],
+    "source": "兽潮深处",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-119",
+    "name": "魔魂大白鲨",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "凋零6%",
+      "命中20%",
+      "撕裂2%",
+      "攻击力3000"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-120",
+    "name": "翡翠天鹅",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "速度10%",
+      "闪避3%",
+      "生命恢复8",
+      "攻击力1800"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-121",
+    "name": "金眼黑龙王",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "暴击9%",
+      "破甲5%",
+      "撕裂5%",
+      "攻击力3500"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-122",
+    "name": "泰坦巨猿",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "挡伤6%",
+      "暴伤30%",
+      "暴击8%",
+      "破甲5%",
+      "攻击力2405"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-123",
+    "name": "火焰狮虎",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "破甲10%",
+      "撕率5%",
+      "点燃10%",
+      "攻击力2400"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-124",
+    "name": "三头赤魔",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "点燃8%",
+      "吸倍20%",
+      "吸率4%",
+      "攻击力2370"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-125",
+    "name": "暗金态爪熊",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "挡伤5%",
+      "破中9%",
+      "撕裂3%7攻击力2890"
+    ],
+    "source": "斗魂森林",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.72"
+  },
+  {
+    "id": "ring-126",
+    "name": "天青牛蟒",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "雷霆2%",
+      "挡伤3%",
+      "生命恢复1",
+      "攻击力2800"
+    ],
+    "source": "斗魂森林",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.93"
+  },
+  {
+    "id": "ring-127",
+    "name": "蓝银皇",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "韧性5%",
+      "闪避5%",
+      "生命恢复10",
+      "攻击力2200"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-128",
+    "name": "风之灵",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "速度12%",
+      "韧性9%",
+      "格挡倍率30%",
+      "攻击力2928"
+    ],
+    "source": "落日森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-129",
+    "name": "幽谷菇灵",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "挡倍10%",
+      "反倍10%",
+      "经验加成2%",
+      "生命恢复50",
+      "攻击力3333"
+    ],
+    "source": "落日森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-130",
+    "name": "岩石守卫",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "命中8%",
+      "破甲9%",
+      "防御500",
+      "攻击力3210"
+    ],
+    "source": "落日森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-131",
+    "name": "铁藜树",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "暴击9%",
+      "破甲5%",
+      "撕裂5%",
+      "反射6%",
+      "攻击力3500"
+    ],
+    "source": "落日森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-132",
+    "name": "寒冰巨蜥",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "暴击10%",
+      "凋零30%",
+      "撕裂5%",
+      "攻击力3400"
+    ],
+    "source": "落日森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-133",
+    "name": "翠绿幽灵",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "缓慢15%",
+      "破防10%",
+      "挡率8%",
+      "攻击力2999"
+    ],
+    "source": "落日森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-134",
+    "name": "迷雾织者",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "暴击5%",
+      "吸倍20%",
+      "速度10%",
+      "攻击力3232"
+    ],
+    "source": "落日森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-135",
+    "name": "太阳花",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "生命恢复100",
+      "闪避10%",
+      "雷霆8%",
+      "攻击力2888"
+    ],
+    "source": "落日森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-136",
+    "name": "梦魔古树",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "生命恢复50",
+      "命中5%",
+      "坚韧6%",
+      "攻击力3000"
+    ],
+    "source": "落日森林",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.90"
+  },
+  {
+    "id": "ring-137",
+    "name": "星渊幽狼",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "吸率4%",
+      "吸倍20%",
+      "速度5%",
+      "攻击力3100"
+    ],
+    "source": "落日森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-138",
+    "name": "噬龙蚁",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "暴击10%",
+      "破甲10%",
+      "撕裂5%",
+      "攻击力3600"
+    ],
+    "source": "极北之地",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-139",
+    "name": "冰碧帝皇蝎",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "挡伤5%",
+      "破甲8%",
+      "缓慢10%",
+      "攻击力2540"
+    ],
+    "source": "极北之地",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-140",
+    "name": "冰天雪女",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "反伤10%",
+      "反率5%",
+      "缓慢10%",
+      "攻击力2652"
+    ],
+    "source": "极北之地",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-141",
+    "name": "泰坦雪魔王",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "反率8%",
+      "反伤10%",
+      "缓慢8%",
+      "攻击力2700"
+    ],
+    "source": "极北之地",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-142",
+    "name": "邪眼暴君",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "命中8%",
+      "破甲5%",
+      "点燃5%",
+      "攻击力3000"
+    ],
+    "source": "龙谷",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-143",
+    "name": "蓝电霸王龙",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "经验加成1%",
+      "生命恢复50",
+      "破甲5%",
+      "攻击力2000"
+    ],
+    "source": "龙谷",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-144",
+    "name": "邪魔虎鲸王",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "雷霆5%",
+      "暴伤30%",
+      "暴击10%",
+      "攻击力3000"
+    ],
+    "source": "龙谷",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-145",
+    "name": "伏地树妖",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "缓慢8%",
+      "暴伤28%",
+      "韧性9%",
+      "攻击3108"
+    ],
+    "source": "悬天崖",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-146",
+    "name": "木桩精",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "命中5%",
+      "破甲5%",
+      "速度5%",
+      "吸率2%",
+      "攻击2121"
+    ],
+    "source": "悬天崖",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-147",
+    "name": "死漂",
+    "years": "十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "失明3%",
+      "中毒3%",
+      "点燃5",
+      "攻击力1666"
+    ],
+    "source": "海神岛",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-148",
+    "name": "翡翠天鹅",
+    "years": "二十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "生命恢复10",
+      "防御力70",
+      "生命加成2200"
+    ],
+    "source": "腐化洞穴",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-149",
+    "name": "魔魂大白鲨",
+    "years": "二十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "生命恢复15",
+      "防御力65",
+      "生命加成2300"
+    ],
+    "source": "腐化洞穴",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-150",
+    "name": "蓝银皇",
+    "years": "二十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "生命恢复40",
+      "防御力100",
+      "生命加成1500"
+    ],
+    "source": "腐化洞穴",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-151",
+    "name": "三头赤魔",
+    "years": "二十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "生命恢复10",
+      "防御力80",
+      "生命加成2500"
+    ],
+    "source": "腐化洞穴",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-152",
+    "name": "狂化翡翠天鹅",
+    "years": "狂化十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "速度30%",
+      "闪避6%",
+      "生命恢复10",
+      "攻击力4800"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-153",
+    "name": "狂化金眼黑龙王",
+    "years": "狂化十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "暴击10%",
+      "破甲10%",
+      "撕裂4%",
+      "攻击力5500"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-154",
+    "name": "狂化三头赤魔樊",
+    "years": "狂化十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "吸倍21%",
+      "吸率5%",
+      "燃烧9%",
+      "攻击力4370"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.91"
+  },
+  {
+    "id": "ring-155",
+    "name": "狂化天青牛蟒",
+    "years": "狂化十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "雷霆4%",
+      "挡率9%",
+      "生命恢复2",
+      "攻击力4800"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.94"
+  },
+  {
+    "id": "ring-156",
+    "name": "狂化蓝银皇",
+    "years": "狂化十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "韧性11%",
+      "闪避5%",
+      "生命恢复11",
+      "玫击力5000"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-157",
+    "name": "狂化泰坦巨猿",
+    "years": "狂化十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "挡率8%",
+      "暴伤35%",
+      "暴击10%",
+      "破甲11%",
+      "攻击力4405"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-158",
+    "name": "狂化魔魂大白鲨",
+    "years": "狂化十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "凋零7%",
+      "命中21%",
+      "撕裂4%",
+      "攻击力5000"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-159",
+    "name": "狂化暗金恐爪熊",
+    "years": "狂化十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "点燃8%",
+      "暴击10%",
+      "撕裂2%",
+      "攻击力4900"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-160",
+    "name": "狂化邪魔虎鲸王",
+    "years": "狂化十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "雷霆5%",
+      "暴伤40%",
+      "暴击10%",
+      "攻击力5600"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-161",
+    "name": "狂化风之灵",
+    "years": "狂化十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "挡倍34%",
+      "韧性10%",
+      "速度14%",
+      "攻击力4928"
+    ],
+    "source": "兽潮深处",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-162",
+    "name": "狂化幽谷菇灵",
+    "years": "狂化十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "生命恢复100",
+      "经验4%",
+      "反倍15%",
+      "挡倍15%",
+      "攻击力5333"
+    ],
+    "source": "兽潮深处",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-163",
+    "name": "狂化岩石守卫",
+    "years": "狂化十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "命中10%",
+      "破甲13%",
+      "防御力1000",
+      "攻击力5210"
+    ],
+    "source": "兽潮深处",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-164",
+    "name": "狂化铁藜树",
+    "years": "狂化十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "反率8%",
+      "暴击10%",
+      "破甲7%",
+      "撕裂7%",
+      "攻击力5500"
+    ],
+    "source": "兽潮深处",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-165",
+    "name": "狂化寒冰巨蜥",
+    "years": "狂化十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "撕裂8%",
+      "凋零35%",
+      "暴击12%",
+      "攻击力5400"
+    ],
+    "source": "兽潮深处",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-166",
+    "name": "狂化翠绿幽灵",
+    "years": "狂化十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "挡率10%",
+      "破甲15%",
+      "缓慢20%",
+      "攻击力4999"
+    ],
+    "source": "兽潮深处",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-167",
+    "name": "狂化迷雾织者",
+    "years": "狂化十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "速度9%",
+      "吸倍26%",
+      "暴击7%",
+      "攻击力5232"
+    ],
+    "source": "兽潮深处",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-168",
+    "name": "狂化太阳花",
+    "years": "狂化十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "雷霆9%",
+      "闪避13%",
+      "生恢300",
+      "攻击力4888"
+    ],
+    "source": "兽潮深处",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-169",
+    "name": "狂化梦古树",
+    "years": "狂化十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "韧性8%",
+      "命中7%",
+      "生恢100",
+      "攻击力5000"
+    ],
+    "source": "兽潮深处",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-170",
+    "name": "狂化星渊幽狼",
+    "years": "狂化十万年",
+    "yearTier": "100k",
+    "attributes": [
+      "速度7%",
+      "吸倍25%",
+      "吸率5%",
+      "攻击力5100"
+    ],
+    "source": "兽潮深处",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-171",
+    "name": "潮汐主宰",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "速度15%",
+      "缓慢10%",
+      "挡率5%",
+      "反率5%",
+      "命中10%",
+      "攻击力3666"
+    ],
+    "source": "钓鱼区",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-172",
+    "name": "天梦冰蚕",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "反倍30%",
+      "反率5%",
+      "雷霆4%",
+      "缓慢5%",
+      "闪避5%",
+      "攻击力3500"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-173",
+    "name": "光明圣龙",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "撕裂6%",
+      "破防8%",
+      "雷霆5%",
+      "生命恢复50",
+      "命中10%",
+      "攻击力6000"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-174",
+    "name": "十首烈阳蛇",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "撕裂4%",
+      "暴击3%",
+      "暴伤30%",
+      "中毒10%",
+      "攻击力8222"
+    ],
+    "source": "斗魂森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-175",
+    "name": "天梦冰蚕",
+    "years": "变异百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "雷霆4%",
+      "反射5%",
+      "反射倍率15%",
+      "防御力300生命恢复50",
+      "生命值3500"
+    ],
+    "source": "腐化洞穴",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-176",
+    "name": "光明圣龙",
+    "years": "变异百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "命中5%",
+      "雷霆5%",
+      "韧性3%",
+      "防御力600",
+      "生命恢复100",
+      "生命值6000"
+    ],
+    "source": "腐化洞穴",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-177",
+    "name": "黑暗圣龙",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "调零10%",
+      "破防5%",
+      "缓慢10%",
+      "失明10%",
+      "命中10%",
+      "攻击力6000"
+    ],
+    "source": "极北之地",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-178",
+    "name": "冰霜巨龙",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "命中10%",
+      "失明10%",
+      "缓慢10%",
+      "破甲10%",
+      "凋零10%",
+      "攻击力8000"
+    ],
+    "source": "极北之地",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-179",
+    "name": "蔡鸡坤",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "闪避5%",
+      "缓慢5%",
+      "雷霆4%",
+      "反率5%",
+      "反伤30%",
+      "攻击力4444"
+    ],
+    "source": "极北之地",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-180",
+    "name": "赤王",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "韧性10%",
+      "撕裂5%",
+      "挡率10%",
+      "凋零6%",
+      "点燃8%",
+      "攻击力8000"
+    ],
+    "source": "神秘空间",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-181",
+    "name": "暗黑深海魔鲸王",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "吸倍35%",
+      "暴击15%",
+      "破甲8%",
+      "撕裂5%",
+      "攻击力9000"
+    ],
+    "source": "神秘空间",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-182",
+    "name": "弱化帝天",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "暴击5%",
+      "暴伤40%",
+      "命中15%",
+      "闪避15%",
+      "PVP防御力3000",
+      "攻击力10000"
+    ],
+    "source": "神秘空间",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-183",
+    "name": "深海魔鲸王",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "撕裂3%",
+      "破甲3%",
+      "暴击15",
+      "吸倍30%",
+      "玫击力3000"
+    ],
+    "source": "神秘空间",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-184",
+    "name": "山龙王",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "吸率5%",
+      "生命力2000",
+      "攻击力7800"
+    ],
+    "source": "龙谷",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-185",
+    "name": "火龙王",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "暴伤30%",
+      "点燃15%",
+      "破甲8%",
+      "PVE攻击力2000",
+      "攻击力7800"
+    ],
+    "source": "龙谷",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-186",
+    "name": "冰龙王",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "凋零20%",
+      "缓慢8%",
+      "韧性8%",
+      "攻击力7800"
+    ],
+    "source": "龙谷",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-187",
+    "name": "风龙王",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "移速8%",
+      "闪避10%",
+      "挡伤15%",
+      "挡率10%",
+      "攻击力7800"
+    ],
+    "source": "龙谷",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-188",
+    "name": "魔皇",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "撕裂5%",
+      "吸血4%",
+      "暴伤20%",
+      "格挡倍率18%",
+      "反伤倍率",
+      "30%",
+      "攻击力9000"
+    ],
+    "source": "龙骨三岛",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-189",
+    "name": "金龙王",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "凋零5%",
+      "暴伤30%",
+      "暴击3%",
+      "雷霆3%",
+      "攻击力8100"
+    ],
+    "source": "龙王殿",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-190",
+    "name": "银龙王",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "挡伤10%",
+      "吸倍7%",
+      "吸率2%",
+      "撕裂2%",
+      "攻击力8100"
+    ],
+    "source": "龙王殿",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-191",
+    "name": "水龙王",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "中毒8%",
+      "暴伤23%",
+      "韧性8%",
+      "防御力1500",
+      "攻击力7900"
+    ],
+    "source": "龙王殿",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-192",
+    "name": "土龙王",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "速度5%",
+      "撕裂4%",
+      "吸率5%",
+      "PVP防御力1000",
+      "PVE防御力1000",
+      "攻击力7900"
+    ],
+    "source": "龙王殿",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-193",
+    "name": "雷鸣龙王",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "雷霆6%",
+      "暴击3%",
+      "暴伤30%",
+      "吸倍6%",
+      "攻击力8111"
+    ],
+    "source": "龙王殿",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-194",
+    "name": "罗姆血蛛",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "暴击13%",
+      "失明10%",
+      "撕裂3%",
+      "破甲5%",
+      "攻击力4500"
+    ],
+    "source": "神界",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-195",
+    "name": "嗜血使徒",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "吸率5%",
+      "吸倍10%",
+      "点燃5%",
+      "雷霆3%",
+      "攻击力4100"
+    ],
+    "source": "神界",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-196",
+    "name": "猪刚鬣",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "凋零7%",
+      "缓慢10%",
+      "失明7%",
+      "破甲7%",
+      "攻击力5000"
+    ],
+    "source": "神界",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.90"
+  },
+  {
+    "id": "ring-197",
+    "name": "独目岩魔",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "撕裂2%",
+      "命中8%",
+      "暴伤35%",
+      "破甲10%",
+      "防御1000",
+      "攻击8989"
+    ],
+    "source": "悬天崖",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-198",
+    "name": "太极魔魁",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "失明10%",
+      "点燃10%",
+      "暴伤29%",
+      "雷霆9%",
+      "攻击8998"
+    ],
+    "source": "悬天崖",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-199",
+    "name": "雪帝",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "撕裂5%",
+      "吸率5%",
+      "暴击8%",
+      "失明8%",
+      "攻击力8111"
+    ],
+    "source": "海神岛",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-200",
+    "name": "火蜥蜴",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "点燃10%",
+      "暴伤10%",
+      "暴击4%",
+      "PVP攻击力1500",
+      "攻击力6200"
+    ],
+    "source": "冰封森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-201",
+    "name": "绿慕斯",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "中毒10%",
+      "暴伤10%",
+      "暴击4%",
+      "PVP攻击力2000",
+      "攻击力6400"
+    ],
+    "source": "冰封森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-202",
+    "name": "淘气地精",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "挡率6%",
+      "闪避6%",
+      "生命恢复50",
+      "生命加成1500",
+      "PVP防御力6000",
+      "攻击力6000"
+    ],
+    "source": "冰封森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-203",
+    "name": "四神兽",
+    "years": "百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "挡伤8%",
+      "暴伤8%",
+      "生命恢复10",
+      "PVP防御力1000",
+      "PVP攻击力1000",
+      "攻击力5000"
+    ],
+    "source": "史莱克",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-204",
+    "name": "四神兽",
+    "years": "二百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "生命恢复30",
+      "暴伤16%",
+      "挡伤16%",
+      "速度5%",
+      "PVP防御力2000",
+      "PVP攻击力2000",
+      "攻击力6000"
+    ],
+    "source": "史莱克",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-205",
+    "name": "四神兽",
+    "years": "六百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "生恢90",
+      "暴伤38%",
+      "格挡30%",
+      "速度7%",
+      "凋零7%",
+      "PVP防御力8000",
+      "PVP攻击力8000",
+      "攻击力9500"
+    ],
+    "source": "史莱克",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-206",
+    "name": "海星",
+    "years": "九百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "凋零8%",
+      "缓慢8%",
+      "失明8%",
+      "韧性10%",
+      "经验加成1%",
+      "速度8%",
+      "暴伤35%",
+      "攻击力9000"
+    ],
+    "source": "龙王殿",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-207",
+    "name": "狂化天梦冰蚕",
+    "years": "狂化百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "反倍35%",
+      "反率7%",
+      "雷霆5%",
+      "缓慢6%",
+      "闪避8%",
+      "攻击力8000"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-208",
+    "name": "狂化铝合金蛛虫",
+    "years": "狂化百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "暴伤38%",
+      "撕裂5%",
+      "破甲8%",
+      "命中9%",
+      "吸率5%",
+      "攻击力9669"
+    ],
+    "source": "兽潮深处",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-209",
+    "name": "狂化八翼天蛛",
+    "years": "狂化百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "韧性4%",
+      "暴伤20%",
+      "速度10%",
+      "雷霆9%",
+      "缓慢11%",
+      "攻击力9551"
+    ],
+    "source": "兽潮深处",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-210",
+    "name": "狂化山龙王",
+    "years": "狂化百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "生命4000",
+      "生恢150",
+      "PVP防御2000",
+      "吸率5%",
+      "雷霆2%",
+      "攻击力8888"
+    ],
+    "source": "龙谷二岛",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-211",
+    "name": "狂化火龙王",
+    "years": "狂化百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "破甲10%",
+      "点烧18%",
+      "暴伤35%",
+      "雷霆2%",
+      "PVE攻击力4000",
+      "攻击力8888"
+    ],
+    "source": "龙谷二岛",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-212",
+    "name": "狂化冰龙王",
+    "years": "狂化百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "防御3000",
+      "坚韧10%",
+      "缓慢10%",
+      "凋零25%",
+      "雷霆2",
+      "攻击力8888"
+    ],
+    "source": "龙谷二岛",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-213",
+    "name": "狂化风龙王",
+    "years": "狂化百万年",
+    "yearTier": "1m",
+    "attributes": [
+      "闪避10%",
+      "挡率11%",
+      "挡倍18%",
+      "速度10%",
+      "雷霆2%",
+      "攻击力8888"
+    ],
+    "source": "龙谷二岛",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-214",
+    "name": "暗夜熔岩鬼",
+    "years": "千万年",
+    "yearTier": "10m",
+    "attributes": [
+      "撕裂6%",
+      "破防10%",
+      "吸血6%",
+      "凋零23",
+      "爆伤40%",
+      "攻击力17888"
+    ],
+    "source": "落日森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-215",
+    "name": "变异暗夜熔岩鼠",
+    "years": "千万年",
+    "yearTier": "10m",
+    "attributes": [
+      "命中4%",
+      "破防10%",
+      "暴伤35%",
+      "防御力1000",
+      "生命回复233",
+      "生命值10000"
+    ],
+    "source": "腐化之地",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-216",
+    "name": "蓝银天青龙",
+    "years": "千万年",
+    "yearTier": "10m",
+    "attributes": [
+      "撕裂9%",
+      "破甲60%",
+      "暴击30%",
+      "闪避8%",
+      "命中50%",
+      "攻击力19888"
+    ],
+    "source": "极北之地",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-217",
+    "name": "蓝海翼龙兽",
+    "years": "千万年",
+    "yearTier": "10m",
+    "attributes": [
+      "撕裂9%",
+      "暴伤100%",
+      "暴击30%",
+      "吸倍50%",
+      "吸率9%",
+      "攻击力20000"
+    ],
+    "source": "极北之地",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-218",
+    "name": "帝天",
+    "years": "千万年",
+    "yearTier": "10m",
+    "attributes": [
+      "撕裂5%",
+      "速度15%",
+      "吸率4%",
+      "吸倍30%",
+      "暴击40%",
+      "闪避10%",
+      "命中30%",
+      "攻击力28888"
+    ],
+    "source": "极北之地",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-219",
+    "name": "虚空天帝",
+    "years": "千万年",
+    "yearTier": "10m",
+    "attributes": [
+      "雷霆11%",
+      "暴击8%",
+      "暴伤120%",
+      "挡率8%",
+      "挡倍30%",
+      "攻击力29999"
+    ],
+    "source": "神秘空间",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-220",
+    "name": "玄老",
+    "years": "千万年",
+    "yearTier": "10m",
+    "attributes": [
+      "撕裂10%",
+      "破甲30%",
+      "吸率9%",
+      "吸倍10%",
+      "暴击18%",
+      "暴伤140%",
+      "闪避8%",
+      "命中60%",
+      "攻击力39888"
+    ],
+    "source": "通天洞",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-221",
+    "name": "霸王熊君",
+    "years": "千万年",
+    "yearTier": "10m",
+    "attributes": [
+      "撕裂14%",
+      "暴击8%",
+      "暴伤115%",
+      "命中10%",
+      "破甲10%",
+      "攻击力29888"
+    ],
+    "source": "龙谷",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-222",
+    "name": "一级龙神",
+    "years": "千万年",
+    "yearTier": "10m",
+    "attributes": [
+      "撕裂5%",
+      "速度15%",
+      "吸率4%",
+      "吸倍30%",
+      "暴击25%",
+      "闪避4%",
+      "命中30%",
+      "攻击力25555"
+    ],
+    "source": "龙王殿",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-223",
+    "name": "龙神",
+    "years": "千万年",
+    "yearTier": "10m",
+    "attributes": [
+      "撕裂10%",
+      "速度30%",
+      "吸率9%",
+      "吸倍10%",
+      "暴击18%",
+      "暴伤140%",
+      "闪避8%",
+      "命中60%",
+      "攻击力39888"
+    ],
+    "source": "神界",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-224",
+    "name": "幽海鬼将",
+    "years": "千万年",
+    "yearTier": "10m",
+    "attributes": [
+      "闪避5%",
+      "挡伤10%",
+      "反伤10%",
+      "韧性10%",
+      "经验2%",
+      "速度10%",
+      "暴伤100%",
+      "攻击力33666"
+    ],
+    "source": "悬天崖",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-225",
+    "name": "霸世龙神",
+    "years": "千万年",
+    "yearTier": "10m",
+    "attributes": [
+      "撕裂7%",
+      "破甲10%",
+      "暴击5%",
+      "吸倍5%",
+      "吸率6%",
+      "攻击力18888"
+    ],
+    "source": "龙域",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-226",
+    "name": "魔道海神",
+    "years": "千万年",
+    "yearTier": "10m",
+    "attributes": [
+      "破甲60%",
+      "格挡8%",
+      "暴击18%",
+      "暴伤110%",
+      "吸率9%",
+      "吸倍50%",
+      "速度30%",
+      "雷霆10%",
+      "攻击39888"
+    ],
+    "source": "海神岛",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-227",
+    "name": "镜影兽",
+    "years": "千万年",
+    "yearTier": "10m",
+    "attributes": [
+      "缓慢10%",
+      "中毒10%",
+      "凋零10%",
+      "暴伤50%",
+      "暴击10%",
+      "闪避15%",
+      "速度20%",
+      "攻击力29999"
+    ],
+    "source": "冰封森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-228",
+    "name": "猛犸巨象",
+    "years": "千万年",
+    "yearTier": "10m",
+    "attributes": [
+      "缓慢10%",
+      "闪避10%",
+      "挡率10%",
+      "暴伤80%",
+      "暴击20%",
+      "撕裂5%",
+      "PVP防御力5000",
+      "攻击力29999"
+    ],
+    "source": "冰封森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-229",
+    "name": "剑齿虎",
+    "years": "千万年",
+    "yearTier": "10m",
+    "attributes": [
+      "失明10%",
+      "闪避10%",
+      "速度15%",
+      "暴伤100%",
+      "暴击30%",
+      "撕裂8%",
+      "PVP攻击力5000",
+      "攻击力29999"
+    ],
+    "source": "冰封森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-230",
+    "name": "妖姬",
+    "years": "千万年",
+    "yearTier": "10m",
+    "attributes": [
+      "经验加成4%",
+      "中毒30%",
+      "撕裂30%",
+      "破甲30%",
+      "速度15%",
+      "暴伤50%",
+      "攻击力31111"
+    ],
+    "source": "杀之都",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-231",
+    "name": "神法修罗",
+    "years": "千万年",
+    "yearTier": "10m",
+    "attributes": [
+      "破甲15%",
+      "雷霆15%",
+      "撕裂15%",
+      "暴击15%",
+      "挡率15%",
+      "反率15%",
+      "PVE20000",
+      "攻击力32000"
+    ],
+    "source": "杀戮之都",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.89"
+  },
+  {
+    "id": "ring-232",
+    "name": "无厄",
+    "years": "千万年",
+    "yearTier": "10m",
+    "attributes": [
+      "撕裂10%",
+      "挡率10%",
+      "暴击13%",
+      "暴伤100%",
+      "速度25%",
+      "韧性10%",
+      "PVP防御力10000",
+      "攻击力31111"
+    ],
+    "source": "杀之都",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-233",
+    "name": "惊吓女巫",
+    "years": "千万年",
+    "yearTier": "10m",
+    "attributes": [
+      "挡倍20%",
+      "韧性15%",
+      "点燃15%",
+      "吸倍40%",
+      "吸率10%",
+      "生命加成4000",
+      "攻击力31111"
+    ],
+    "source": "杀戮之都",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.87"
+  },
+  {
+    "id": "ring-234",
+    "name": "三眼金貌",
+    "years": "千万年",
+    "yearTier": "10m",
+    "attributes": [
+      "生命恢复1000",
+      "防御11000",
+      "速度25%",
+      "暴击13%",
+      "暴伤100%",
+      "撕裂10%",
+      "档率10%",
+      "攻击力31111"
+    ],
+    "source": "杀戮之都",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.88"
+  },
+  {
+    "id": "ring-235",
+    "name": "巨型章鱼",
+    "years": "五千万年",
+    "yearTier": "10m",
+    "attributes": [
+      "暴伤99%",
+      "速度10%",
+      "经验2%",
+      "坚韧10%",
+      "失明10%",
+      "缓慢10%",
+      "调零10%",
+      "攻击力33333"
+    ],
+    "source": "深海",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-236",
+    "name": "鬼笑镰",
+    "years": "五千万年",
+    "yearTier": "10m",
+    "attributes": [
+      "吸率5%",
+      "吸倍44%",
+      "格挡30%",
+      "命中30%",
+      "生命回复300",
+      "暴伤100%",
+      "攻击力33333"
+    ],
+    "source": "深海",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-237",
+    "name": "深海霸主",
+    "years": "八千万年",
+    "yearTier": "10m",
+    "attributes": [
+      "撕裂8%",
+      "吸血8%",
+      "暴击10%",
+      "暴伤130%",
+      "命中10%",
+      "闪避10%",
+      "吸倍30",
+      "攻击力39999"
+    ],
+    "source": "深海",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-238",
+    "name": "海龙",
+    "years": "八千万年",
+    "yearTier": "10m",
+    "attributes": [
+      "不详"
+    ],
+    "source": "兽潮深处",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-239",
+    "name": "狂化蓝银天青龙",
+    "years": "狂化千万年",
+    "yearTier": "10m",
+    "attributes": [
+      "撕裂11%",
+      "破甲66%",
+      "暴击35%",
+      "闪避10%",
+      "命中56%",
+      "攻击力26888"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.92"
+  },
+  {
+    "id": "ring-240",
+    "name": "狂化蓝海翼龙兽",
+    "years": "狂化千万年",
+    "yearTier": "10m",
+    "attributes": [
+      "撕裂11%",
+      "暴伤118%",
+      "暴击35%",
+      "吸倍55%",
+      "吸血10%",
+      "攻击力28888"
+    ],
+    "source": "兽潮来袭",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.90"
+  },
+  {
+    "id": "ring-241",
+    "name": "兽潮冥主",
+    "years": "亿万年",
+    "yearTier": "100m",
+    "attributes": [
+      "不详"
+    ],
+    "source": "兽潮深处",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-242",
+    "name": "古月娜",
+    "years": "亿万年",
+    "yearTier": "100m",
+    "attributes": [
+      "撕裂10%",
+      "破甲20%",
+      "吸率10%",
+      "吸倍30%",
+      "暴伤160%",
+      "暴击20%",
+      "闪避10%",
+      "命中55%",
+      "攻击46666"
+    ],
+    "source": "冰封森林",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-243",
+    "name": "紫姬",
+    "years": "亿万年",
+    "yearTier": "100m",
+    "attributes": [
+      "不详"
+    ],
+    "source": "百妖塔",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-244",
+    "name": "七宗罪贪婪",
+    "years": "神环",
+    "yearTier": "100m",
+    "attributes": [
+      "速度10%",
+      "缓慢10%",
+      "PVP攻击力7",
+      "攻击力7000"
+    ],
+    "source": "点卷商场",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-245",
+    "name": "大力神",
+    "years": "神环",
+    "yearTier": "100m",
+    "attributes": [
+      "速度10%",
+      "缓慢10%",
+      "PVP攻击力9",
+      "攻击力10000"
+    ],
+    "source": "点卷商场",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-246",
+    "name": "海神",
+    "years": "神环",
+    "yearTier": "100m",
+    "attributes": [
+      "破用10%",
+      "凋零10%",
+      "失明10%",
+      "PVP防御力9",
+      "攻击力10000"
+    ],
+    "source": "点卷商场",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-247",
+    "name": "善神",
+    "years": "神环",
+    "yearTier": "100m",
+    "attributes": [
+      "经验加成20%",
+      "生命加成3000",
+      "破甲5%",
+      "生命恢复100",
+      "攻击力15000"
+    ],
+    "source": "点卷商场",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-248",
+    "name": "天使",
+    "years": "神环",
+    "yearTier": "100m",
+    "attributes": [
+      "闪避6%",
+      "撕裂6%",
+      "破甲6%",
+      "攻击力10000"
+    ],
+    "source": "点卷商场",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-249",
+    "name": "善恶",
+    "years": "神环",
+    "yearTier": "100m",
+    "attributes": [
+      "缓慢50%",
+      "失明15%",
+      "命中30%",
+      "破甲30%",
+      "调零15%",
+      "点燃15%",
+      "攻击力50000"
+    ],
+    "source": "点卷商场",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-250",
+    "name": "凤凰",
+    "years": "神环",
+    "yearTier": "100m",
+    "attributes": [
+      "速度30%",
+      "撕裂9%",
+      "闪避9%",
+      "点燃30%",
+      "攻击力20000"
+    ],
+    "source": "点卷商场",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-251",
+    "name": "嗜血修罗",
+    "years": "神环",
+    "yearTier": "100m",
+    "attributes": [
+      "吸率1%",
+      "吸倍3%",
+      "速度10%",
+      "缓慢10%",
+      "命中80%",
+      "PVP防彻力30%",
+      "攻击力30000"
+    ],
+    "source": "点卷商场",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-252",
+    "name": "邪神加坦杰厄",
+    "years": "神环",
+    "yearTier": "100m",
+    "attributes": [
+      "失明10%",
+      "雷霆10%",
+      "暴伤50%",
+      "暴击15%",
+      "攻击力100000"
+    ],
+    "source": "点卷商场",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-253",
+    "name": "百体怪兽贝琉多拉",
+    "years": "神环",
+    "yearTier": "100m",
+    "attributes": [
+      "生命恢复50",
+      "经验加成20%",
+      "撕裂10%",
+      "暴伤70%",
+      "暴击20%",
+      "攻击力150000"
+    ],
+    "source": "点卷商场",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-254",
+    "name": "烈血冰火蚕王",
+    "years": "神环",
+    "yearTier": "100m",
+    "attributes": [
+      "吸倍10%",
+      "吸率3%",
+      "经验加成25%",
+      "失明8%",
+      "雷霆10%",
+      "暴伤85%",
+      "暴击25%",
+      "攻击力300000"
+    ],
+    "source": "点卷商场",
+    "confidence": "needs-review",
+    "sourceNote": "OCR最低置信度 0.93"
+  },
+  {
+    "id": "ring-255",
+    "name": "鲲鹏",
+    "years": "一级血魔",
+    "yearTier": "other",
+    "attributes": [
+      "韧性3%",
+      "生命恢复40",
+      "防御力200",
+      "生命加成5000"
+    ],
+    "source": "点卷商场",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-256",
+    "name": "巴蛇",
+    "years": "三级血魔",
+    "yearTier": "other",
+    "attributes": [
+      "韧性8%",
+      "生命恢复160",
+      "防御力800",
+      "生命加成20000"
+    ],
+    "source": "点卷商场",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-257",
+    "name": "不死雪狐",
+    "years": "五级血魔",
+    "yearTier": "other",
+    "attributes": [
+      "经验加成5%",
+      "韧性10%",
+      "生命恢复300",
+      "防御力3000",
+      "生命加成50000"
+    ],
+    "source": "点卷商场",
+    "confidence": "verified",
+    "sourceNote": null
+  },
+  {
+    "id": "ring-258",
+    "name": "嗜血九尾妖狐",
+    "years": "十级血魔",
+    "yearTier": "other",
+    "attributes": [
+      "命中5%",
+      "挡率5%",
+      "闪避5%",
+      "经验加成5%",
+      "韧性10%",
+      "生命恢复400",
+      "防彻力6000",
+      "生命加成100000"
+    ],
+    "source": "点卷商场",
+    "confidence": "verified",
+    "sourceNote": null
+  }
+]

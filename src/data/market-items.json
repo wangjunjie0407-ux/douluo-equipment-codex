@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "item-001",
+    "name": "死漂/木桩精",
+    "category": "十万年",
+    "points": 10,
+    "dragonGold": 1,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-002",
+    "name": "天梦冰蚕/变异百万",
+    "category": "百万年",
+    "points": 49,
+    "dragonGold": 5,
+    "coins": null,
+    "notes": null,
+    "confidence": "needs-review"
+  },
+  {
+    "id": "item-003",
+    "name": "变异暗夜熔岩鼠",
+    "category": "千万年",
+    "points": 600,
+    "dragonGold": 180,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-004",
+    "name": "罗姆血源蛛精魄",
+    "category": "基础材料",
+    "points": null,
+    "dragonGold": null,
+    "coins": "5000",
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-005",
+    "name": "变异四傻",
+    "category": "十万年",
+    "points": 10,
+    "dragonGold": 1,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-006",
+    "name": "淘气地精/绿幕斯",
+    "category": "百万年",
+    "points": 49,
+    "dragonGold": 5,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-007",
+    "name": "蓝银天青龙",
+    "category": "千万年",
+    "points": 1500,
+    "dragonGold": 500,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-008",
+    "name": "通天小件",
+    "category": "装备",
+    "points": 299,
+    "dragonGold": null,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-009",
+    "name": "使徒的生命蜡烛",
+    "category": "基础材料",
+    "points": null,
+    "dragonGold": null,
+    "coins": "5000",
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-010",
+    "name": "魔魂大白鲨",
+    "category": "十万年",
+    "points": 39,
+    "dragonGold": 3,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-011",
+    "name": "风龙/冰龙",
+    "category": "百万年",
+    "points": 49,
+    "dragonGold": 5,
+    "coins": null,
+    "notes": null,
+    "confidence": "needs-review"
+  },
+  {
+    "id": "item-012",
+    "name": "帝天",
+    "category": "千万年",
+    "points": 1800,
+    "dragonGold": 600,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-013",
+    "name": "通天盔甲",
+    "category": "装备",
+    "points": 800,
+    "dragonGold": null,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-014",
+    "name": "猪刚的修为结晶",
+    "category": "基础材料",
+    "points": null,
+    "dragonGold": null,
+    "coins": "5000",
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-015",
+    "name": "金眼黑龙王",
+    "category": "十万年",
+    "points": 39,
+    "dragonGold": 3,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-016",
+    "name": "光明/黑暗/冰霜圣龙",
+    "category": "百万年",
+    "points": 49,
+    "dragonGold": 5,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-017",
+    "name": "暗夜熔岩鬼",
+    "category": "千万年",
+    "points": 2750,
+    "dragonGold": 900,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-018",
+    "name": "兽王潘达斯盔甲",
+    "category": "装备",
+    "points": 3000,
+    "dragonGold": null,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-019",
+    "name": "极寒碎片/腐化毒土",
+    "category": "基础材料",
+    "points": null,
+    "dragonGold": null,
+    "coins": "5000",
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-020",
+    "name": "三头赤魔",
+    "category": "十万年",
+    "points": 39,
+    "dragonGold": 3,
+    "coins": null,
+    "notes": null,
+    "confidence": "needs-review"
+  },
+  {
+    "id": "item-021",
+    "name": "狂天梦/狂冰龙",
+    "category": "百万年",
+    "points": 66,
+    "dragonGold": 10,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-022",
+    "name": "镜影兽",
+    "category": "千万年",
+    "points": 3000,
+    "dragonGold": 1000,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-023",
+    "name": "兽潮黑铁（组）",
+    "category": "基础材料",
+    "points": 79,
+    "dragonGold": null,
+    "coins": "25.6m",
+    "notes": null,
+    "confidence": "needs-review"
+  },
+  {
+    "id": "item-024",
+    "name": "星渊幽狼",
+    "category": "十万年",
+    "points": 39,
+    "dragonGold": 3,
+    "coins": null,
+    "notes": null,
+    "confidence": "needs-review"
+  },
+  {
+    "id": "item-025",
+    "name": "嗜血使徒",
+    "category": "百万年",
+    "points": 149,
+    "dragonGold": 15,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-026",
+    "name": "神法修罗",
+    "category": "千万年",
+    "points": 3200,
+    "dragonGold": 1050,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-027",
+    "name": "赛丽亚的狂暴项链",
+    "category": "装备",
+    "points": 100,
+    "dragonGold": null,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-028",
+    "name": "中级精魄（组）/高级精魄",
+    "category": "基础材料",
+    "points": 15,
+    "dragonGold": null,
+    "coins": "5",
+    "notes": null,
+    "confidence": "needs-review"
+  },
+  {
+    "id": "item-029",
+    "name": "噬龙蚁",
+    "category": "十万年",
+    "points": 49,
+    "dragonGold": 5,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-030",
+    "name": "狂化风龙王",
+    "category": "百万年",
+    "points": 150,
+    "dragonGold": 20,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-031",
+    "name": "惊吓女巫",
+    "category": "千万年",
+    "points": 3500,
+    "dragonGold": 1000,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-032",
+    "name": "白银项链",
+    "category": "装备",
+    "points": 600,
+    "dragonGold": null,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-033",
+    "name": "龙族金币",
+    "category": "基础材料",
+    "points": 15,
+    "dragonGold": null,
+    "coins": "",
+    "notes": null,
+    "confidence": "needs-review"
+  },
+  {
+    "id": "item-034",
+    "name": "泰坦/邪魔/伏地",
+    "category": "十万年",
+    "points": 135,
+    "dragonGold": 15,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-035",
+    "name": "银龙王",
+    "category": "百万年",
+    "points": 150,
+    "dragonGold": 20,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-036",
+    "name": "空间龙王",
+    "category": "千万年",
+    "points": 3800,
+    "dragonGold": 1250,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-037",
+    "name": "灵力碎片（组）/灵力晶体",
+    "category": "基础材料",
+    "points": 8,
+    "dragonGold": null,
+    "coins": "2.5",
+    "notes": null,
+    "confidence": "needs-review"
+  },
+  {
+    "id": "item-038",
+    "name": "赤王/暗黑深海魔鲸",
+    "category": "百万年",
+    "points": 150,
+    "dragonGold": 20,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-039",
+    "name": "妖姬",
+    "category": "千万年",
+    "points": 4500,
+    "dragonGold": 1500,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-040",
+    "name": "死漂属性戒指",
+    "category": "装备",
+    "points": 100,
+    "dragonGold": null,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-041",
+    "name": "时间碎片",
+    "category": "基础材料",
+    "points": 10,
+    "dragonGold": null,
+    "coins": "4",
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-042",
+    "name": "山龙王",
+    "category": "百万年",
+    "points": 200,
+    "dragonGold": 25,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-043",
+    "name": "猛犸巨象",
+    "category": "千万年",
+    "points": 4750,
+    "dragonGold": 1550,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-044",
+    "name": "赛丽亚的爱心戒指",
+    "category": "装备",
+    "points": 300,
+    "dragonGold": null,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-045",
+    "name": "赛丽亚的爱心",
+    "category": "基础材料",
+    "points": 10,
+    "dragonGold": null,
+    "coins": "G",
+    "notes": null,
+    "confidence": "needs-review"
+  },
+  {
+    "id": "item-046",
+    "name": "星斗落日极北龙谷其余魂环",
+    "category": "十万年",
+    "points": 29,
+    "dragonGold": null,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-047",
+    "name": "水龙王",
+    "category": "百万年",
+    "points": 200,
+    "dragonGold": 30,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-048",
+    "name": "魔帝",
+    "category": "千万年",
+    "points": 5350,
+    "dragonGold": 1750,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-049",
+    "name": "仙草（组）",
+    "category": "基础材料",
+    "points": 20,
+    "dragonGold": null,
+    "coins": "6.4",
+    "notes": null,
+    "confidence": "needs-review"
+  },
+  {
+    "id": "item-050",
+    "name": "蓝佛子",
+    "category": "百万年",
+    "points": 300,
+    "dragonGold": 40,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-051",
+    "name": "剑齿虎",
+    "category": "千万年",
+    "points": 6000,
+    "dragonGold": 1900,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-052",
+    "name": "丽雅",
+    "category": "装备",
+    "points": 200,
+    "dragonGold": null,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-053",
+    "name": "虾兵/蟹将（组）",
+    "category": "基础材料",
+    "points": 20,
+    "dragonGold": null,
+    "coins": "6.4",
+    "notes": null,
+    "confidence": "needs-review"
+  },
+  {
+    "id": "item-054",
+    "name": "狂化山龙王",
+    "category": "百万年",
+    "points": 400,
+    "dragonGold": 110,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-055",
+    "name": "三眼金/无厄/巨型章鱼",
+    "category": "千万年",
+    "points": 6500,
+    "dragonGold": 2000,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-056",
+    "name": "八角",
+    "category": "装备",
+    "points": 400,
+    "dragonGold": null,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-057",
+    "name": "初级弓进化材料（10个）",
+    "category": "基础材料",
+    "points": 25,
+    "dragonGold": null,
+    "coins": "",
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-058",
+    "name": "狂化邪魔虎鲸王",
+    "category": "十万年",
+    "points": 600,
+    "dragonGold": 80,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-059",
+    "name": "金龙王",
+    "category": "百万年",
+    "points": 450,
+    "dragonGold": 6,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-060",
+    "name": "蓝海翼龙兽",
+    "category": "千万年",
+    "points": 7000,
+    "dragonGold": 2300,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-061",
+    "name": "天梦",
+    "category": "装备",
+    "points": 600,
+    "dragonGold": null,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-062",
+    "name": "高级弓进化材料",
+    "category": "基础材料",
+    "points": 25,
+    "dragonGold": null,
+    "coins": "",
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-063",
+    "name": "狂泰坦/狂熊",
+    "category": "十万年",
+    "points": 400,
+    "dragonGold": 45,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-064",
+    "name": "火龙王",
+    "category": "百万年",
+    "points": 500,
+    "dragonGold": 100,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-065",
+    "name": "虚空天帝/霸王熊君",
+    "category": "千万年",
+    "points": 7500,
+    "dragonGold": 2500,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-066",
+    "name": "极寒冰晶石",
+    "category": "基础材料",
+    "points": 120,
+    "dragonGold": null,
+    "coins": "",
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-067",
+    "name": "狂化翡翠天鹅",
+    "category": "十万年",
+    "points": 200,
+    "dragonGold": 30,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-068",
+    "name": "雷龙/土龙",
+    "category": "百万年",
+    "points": 550,
+    "dragonGold": 110,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-069",
+    "name": "狂化蓝海翼龙兽",
+    "category": "千万年",
+    "points": 7500,
+    "dragonGold": 2500,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-070",
+    "name": "通天卡",
+    "category": "卡片",
+    "points": 49,
+    "dragonGold": null,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-071",
+    "name": "破碎的龙王碎片（18个）",
+    "category": "基础材料",
+    "points": 129,
+    "dragonGold": null,
+    "coins": "30组物资",
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-072",
+    "name": "狂三头/狂星渊狼",
+    "category": "十万年",
+    "points": 200,
+    "dragonGold": 20,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-073",
+    "name": "十首烈阳蛇",
+    "category": "百万年",
+    "points": 550,
+    "dragonGold": 135,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-074",
+    "name": "暗黑三头蝙蝠王",
+    "category": "千万年",
+    "points": 7800,
+    "dragonGold": 2600,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-075",
+    "name": "嗜血使徒卡",
+    "category": "卡片",
+    "points": 300,
+    "dragonGold": null,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-076",
+    "name": "金银之心",
+    "category": "基础材料",
+    "points": 300,
+    "dragonGold": null,
+    "coins": "",
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-077",
+    "name": "狂铁树/狂金眼",
+    "category": "十万年",
+    "points": 200,
+    "dragonGold": 20,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-078",
+    "name": "雪帝",
+    "category": "百万年",
+    "points": 600,
+    "dragonGold": 140,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-079",
+    "name": "海神/深海霸主",
+    "category": "千万年",
+    "points": 12000,
+    "dragonGold": null,
+    "coins": null,
+    "notes": null,
+    "confidence": "needs-review"
+  },
+  {
+    "id": "item-080",
+    "name": "钓王卡",
+    "category": "卡片",
+    "points": 400,
+    "dragonGold": null,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-081",
+    "name": "狂鲨鱼/狂蘑菇",
+    "category": "十万年",
+    "points": 8,
+    "dragonGold": 8,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-082",
+    "name": "太极魔愧",
+    "category": "百万年",
+    "points": 600,
+    "dragonGold": 130,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-083",
+    "name": "龙神/玄老",
+    "category": "千万年",
+    "points": 14000,
+    "dragonGold": null,
+    "coins": null,
+    "notes": null,
+    "confidence": "needs-review"
+  },
+  {
+    "id": "item-084",
+    "name": "赛丽亚的征途卡",
+    "category": "卡片",
+    "points": 640,
+    "dragonGold": null,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-085",
+    "name": "狂天青/蓝银",
+    "category": "十万年",
+    "points": 49,
+    "dragonGold": 5,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-086",
+    "name": "狂化八翼天蛛",
+    "category": "百万年",
+    "points": 600,
+    "dragonGold": null,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-087",
+    "name": "火蜥蜴/绿慕斯卡",
+    "category": "卡片",
+    "points": 800,
+    "dragonGold": null,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-088",
+    "name": "闪避三足鸟肩骨",
+    "category": "魂骨",
+    "points": 349,
+    "dragonGold": 80,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-089",
+    "name": "海星",
+    "category": "百万年",
+    "points": 700,
+    "dragonGold": 170,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-090",
+    "name": "猪刚卡",
+    "category": "卡片",
+    "points": 1000,
+    "dragonGold": null,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-091",
+    "name": "蓝银腿/岩石腿/女巫腿",
+    "category": "魂骨",
+    "points": 349,
+    "dragonGold": 80,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-092",
+    "name": "se2其余魂环",
+    "category": "十万年",
+    "points": 49,
+    "dragonGold": 5,
+    "coins": null,
+    "notes": null,
+    "confidence": "needs-review"
+  },
+  {
+    "id": "item-093",
+    "name": "独目岩魔",
+    "category": "百万年",
+    "points": 770,
+    "dragonGold": 210,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-094",
+    "name": "魂导器--龙谷二孔（自带钻1250）",
+    "category": "卡片",
+    "points": 1500,
+    "dragonGold": null,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-095",
+    "name": "蘑菇肩十首肩雷龙肩",
+    "category": "魂骨",
+    "points": 200,
+    "dragonGold": 40,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-096",
+    "name": "狂火",
+    "category": "百万年",
+    "points": 800,
+    "dragonGold": 230,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-097",
+    "name": "神界魂导器",
+    "category": "卡片",
+    "points": 200,
+    "dragonGold": null,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-098",
+    "name": "铁树手",
+    "category": "魂骨",
+    "points": 600,
+    "dragonGold": 120,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-099",
+    "name": "魔皇",
+    "category": "百万年",
+    "points": 800,
+    "dragonGold": 200,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-100",
+    "name": "元素守护者徽章",
+    "category": "卡片",
+    "points": 650,
+    "dragonGold": null,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-101",
+    "name": "太极肩",
+    "category": "魂骨",
+    "points": 600,
+    "dragonGold": 120,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-102",
+    "name": "弱化帝天",
+    "category": "百万年",
+    "points": 1000,
+    "dragonGold": 240,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-103",
+    "name": "太阳花腿/独目腿/虎鲸腿",
+    "category": "魂骨",
+    "points": 200,
+    "dragonGold": 40,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-104",
+    "name": "狂化铝合金蛛虫",
+    "category": "百万年",
+    "points": 1200,
+    "dragonGold": 400,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-105",
+    "name": "三眼头",
+    "category": "魂骨",
+    "points": 400,
+    "dragonGold": 100,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-106",
+    "name": "无厄肩",
+    "category": "魂骨",
+    "points": 400,
+    "dragonGold": 100,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-107",
+    "name": "妖姬躯干",
+    "category": "魂骨",
+    "points": 400,
+    "dragonGold": 120,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  },
+  {
+    "id": "item-108",
+    "name": "深海霸主躯干",
+    "category": "魂骨",
+    "points": 400,
+    "dragonGold": 120,
+    "coins": null,
+    "notes": null,
+    "confidence": "verified"
+  }
+]
