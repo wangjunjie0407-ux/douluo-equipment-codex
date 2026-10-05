@@ -36,7 +36,7 @@ export default function App() {
       <ModuleTabs active={active} onChange={setActive} equipmentCount={equipmentCount} marketCount={marketItems.length + rangePrices.length + criticalDamagePrices.length} />
       <main>
         <div hidden={active !== "rings"}><EquipmentAttributeModule soulRings={soulRings} soulDevices={soulDevices} soulBones={soulBones} badges={badges} /></div>
-        <div hidden={active !== "market"}><MarketModule records={marketItems} ranges={rangePrices} criticalPrices={criticalDamagePrices} /></div>
+        <div hidden={active !== "market"}><MarketModule records={marketItems} ranges={rangePrices} criticalPrices={criticalDamagePrices} attributeRecords={[...soulDevices, ...badges]} /></div>
       </main>
       <footer><p>数据整理自用户提供图片 · 物价记录时间：2026.8</p><p>“待核对”表示原图文字较小或识别置信度不足。</p></footer>
     </div>

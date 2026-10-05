@@ -114,6 +114,10 @@ describe("dashboard modules", () => {
     expect(within(table).getByText("2500")).toBeInTheDocument();
     expect(within(table).getByText("100%")).toBeInTheDocument();
     expect(within(table).getByText("12000")).toBeInTheDocument();
+    expect(within(table).getByText("暗界裂痕之矛")).toBeInTheDocument();
+    expect(within(table).getByText("幽暗吞噬者之刃")).toBeInTheDocument();
+    expect(within(table).getByText("普天祥瑞")).toBeInTheDocument();
+    expect(within(table).getByText("暂未收录对应名称")).toBeInTheDocument();
   });
 
   it("searches critical-damage rows and treats whitespace as an empty search", () => {

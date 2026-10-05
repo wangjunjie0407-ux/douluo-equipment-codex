@@ -1,13 +1,13 @@
 import { useMemo, useState } from "react";
 import { filterMarketItems } from "../lib/filter";
-import type { CriticalDamagePriceRecord, MarketItem, RangePriceRecord } from "../types";
+import type { CriticalDamagePriceRecord, EquipmentAttributeRecord, MarketItem, RangePriceRecord } from "../types";
 import { FilterBar } from "./FilterBar";
 import { RangePriceTable } from "./RangePriceTable";
 import { CriticalDamagePriceTable } from "./CriticalDamagePriceTable";
 
 const price = (value: number | string | null, suffix: string) => value === null ? "—" : `${value}${suffix}`;
 
-export function MarketModule({ records, ranges, criticalPrices }: { records: MarketItem[]; ranges: RangePriceRecord[]; criticalPrices: CriticalDamagePriceRecord[] }) {
+export function MarketModule({ records, ranges, criticalPrices, attributeRecords }: { records: MarketItem[]; ranges: RangePriceRecord[]; criticalPrices: CriticalDamagePriceRecord[]; attributeRecords: EquipmentAttributeRecord[] }) {
   const [query, setQuery] = useState("");
   const [category, setCategory] = useState("");
   const [currency, setCurrency] = useState<"" | "points" | "dragonGold" | "coins">("");
@@ -15,8 +15,15 @@ export function MarketModule({ records, ranges, criticalPrices }: { records: Mar
   const filtered = filterMarketItems(records, query, { category, currency });
   const criticalCategory = category === "徽章" || category === "魂导器" ? category : null;
   const normalizedQuery = query.trim().toLocaleLowerCase("zh-CN");
-  const selectedCriticalPrices = criticalCategory === null ? [] : criticalPrices.filter((item) => item.category === criticalCategory);
-  const filteredCriticalPrices = selectedCriticalPrices.filter((item) => !normalizedQuery || [item.category, item.slots ?? "", String(item.criticalDamage)].some((value) => value.toLocaleLowerCase("zh-CN").includes(normalizedQuery)));
+  const selectedCriticalPrices = criticalCategory === null ? [] : criticalPrices.filter((item) => item.category === criticalCategory).map((item) => ({
+    ...item,
+    equipmentName: attributeRecords.find((record) =>
+      record.kind === (item.category === "魂导器" ? "soul-device" : "badge") &&
+      (item.slots === null || record.subtype === item.slots) &&
+      record.attributes.includes(`暴伤${item.criticalDamage}%`)
+    )?.name ?? null
+  }));
+  const filteredCriticalPrices = selectedCriticalPrices.filter((item) => !normalizedQuery || [item.category, item.slots ?? "", item.equipmentName ?? "", String(item.criticalDamage)].some((value) => value.toLocaleLowerCase("zh-CN").includes(normalizedQuery)));
   const showCriticalPricing = criticalCategory !== null && (currency === "" || currency === "points") && filteredCriticalPrices.length > 0;
   const resultCount = criticalCategory === null ? filtered.length : showCriticalPricing ? filteredCriticalPrices.length : 0;
   const resultTotal = criticalCategory === null ? records.length : selectedCriticalPrices.length;
