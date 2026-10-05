@@ -5,7 +5,7 @@ import { FilterBar } from "./FilterBar";
 
 const unique = (values: string[]) => [...new Set(values)].sort((a, b) => a.localeCompare(b, "zh-CN"));
 
-export function SoulRingModule({ records }: { records: SoulRingRecord[] }) {
+export function SoulRingModule({ records, embedded = false }: { records: SoulRingRecord[]; embedded?: boolean }) {
   const [query, setQuery] = useState("");
   const [years, setYears] = useState("");
   const [attribute, setAttribute] = useState("");
@@ -17,8 +17,9 @@ export function SoulRingModule({ records }: { records: SoulRingRecord[] }) {
   const clear = () => { setQuery(""); setYears(""); setAttribute(""); setSource(""); };
 
   return (
-    <section className="module-panel" aria-labelledby="rings-title">
-      <div className="section-heading"><div><p className="eyebrow">SOUL RING ARCHIVE</p><h2 id="rings-title">魂环资料库</h2></div><strong>{filtered.length}<span> / {records.length}</span></strong></div>
+    <section className={embedded ? "equipment-subpanel" : "module-panel"} aria-label="魂环属性">
+      {!embedded && <div className="section-heading"><div><p className="eyebrow">SOUL RING ARCHIVE</p><h2>魂环资料库</h2></div><strong>{filtered.length}<span> / {records.length}</span></strong></div>}
+      {embedded && <div className="subcategory-heading"><h3>魂环属性</h3><strong>{filtered.length}<span> / {records.length}</span></strong></div>}
       <FilterBar label="搜索魂环" value={query} placeholder="名称、属性或出处" onChange={setQuery} onClear={clear}>
         <label><span>年限</span><select value={years} onChange={(event) => setYears(event.target.value)}><option value="">全部年限</option>{yearOptions.map((value) => <option key={value}>{value}</option>)}</select></label>
         <label><span>属性</span><select value={attribute} onChange={(event) => setAttribute(event.target.value)}><option value="">全部属性</option>{attributeOptions.map((value) => <option key={value}>{value}</option>)}</select></label>

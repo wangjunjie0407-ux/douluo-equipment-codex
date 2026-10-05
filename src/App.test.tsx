@@ -10,7 +10,7 @@ describe("dashboard modules", () => {
 
   it("switches from soul rings to the market module", () => {
     render(<App />);
-    expect(screen.getByRole("heading", { name: "魂环资料库" })).toBeInTheDocument();
+    expect(screen.getByRole("heading", { name: "装备属性库" })).toBeInTheDocument();
     fireEvent.click(screen.getByRole("button", { name: /装备物价表/ }));
     expect(screen.getByRole("heading", { name: "装备物价表" })).toBeInTheDocument();
     expect(screen.getByText("一区物价表 · 2026.8")).toBeInTheDocument();
@@ -33,11 +33,34 @@ describe("dashboard modules", () => {
 
     const marketSearch = screen.getByLabelText("搜索物品");
     fireEvent.change(marketSearch, { target: { value: "龙金" } });
-    fireEvent.click(screen.getByRole("button", { name: /魂环资料库/ }));
+    fireEvent.click(screen.getByRole("button", { name: /装备属性库/ }));
     expect(screen.getByLabelText("搜索魂环")).toHaveValue("风狒狒");
 
     fireEvent.click(screen.getByRole("button", { name: /装备物价表/ }));
     expect(screen.getByLabelText("搜索物品")).toHaveValue("龙金");
+  });
+
+  it("switches among soul rings, soul devices, soul bones and badges", () => {
+    render(<App />);
+    expect(screen.getByRole("button", { name: /魂环 258/ })).toHaveAttribute("aria-pressed", "true");
+    fireEvent.click(screen.getByRole("button", { name: /魂导器 41/ }));
+    expect(screen.getByText("蛇年大吉")).toBeInTheDocument();
+    fireEvent.click(screen.getByRole("button", { name: /魂骨 57/ }));
+    expect(screen.getByText("帝天头骨")).toBeInTheDocument();
+    fireEvent.click(screen.getByRole("button", { name: /徽章 23/ }));
+    expect(screen.getByText("魔法深渊之章")).toBeInTheDocument();
+  });
+
+  it("preserves each equipment category search state after a round trip", () => {
+    render(<App />);
+    fireEvent.click(screen.getByRole("button", { name: /魂导器 41/ }));
+    fireEvent.change(screen.getByLabelText("搜索魂导器"), { target: { value: "蛇年" } });
+    fireEvent.click(screen.getByRole("button", { name: /魂骨 57/ }));
+    fireEvent.change(screen.getByLabelText("搜索魂骨"), { target: { value: "帝天" } });
+    fireEvent.click(screen.getByRole("button", { name: /魂导器 41/ }));
+    expect(screen.getByLabelText("搜索魂导器")).toHaveValue("蛇年");
+    fireEvent.click(screen.getByRole("button", { name: /魂骨 57/ }));
+    expect(screen.getByLabelText("搜索魂骨")).toHaveValue("帝天");
   });
 
   it("classifies necklaces, rings and hidden weapons and links range pricing", () => {
