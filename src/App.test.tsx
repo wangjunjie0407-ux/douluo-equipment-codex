@@ -1,4 +1,4 @@
-import { fireEvent, render, screen } from "@testing-library/react";
+import { fireEvent, render, screen, within } from "@testing-library/react";
 import { describe, expect, it } from "vitest";
 import App from "./App";
 
@@ -80,5 +80,39 @@ describe("dashboard modules", () => {
     fireEvent.change(category, { target: { value: "暗器" } });
     expect(screen.getByRole("heading", { name: "暗器", level: 4 })).toBeInTheDocument();
     expect(screen.queryByRole("heading", { name: "戒指", level: 4 })).not.toBeInTheDocument();
+  });
+
+  it("shows the complete badge critical-damage price ladder", () => {
+    render(<App />);
+    fireEvent.click(screen.getByRole("button", { name: /装备物价表/ }));
+    const category = screen.getByRole("combobox", { name: "分类" });
+    expect(screen.getByRole("option", { name: "徽章" })).toBeInTheDocument();
+    fireEvent.change(category, { target: { value: "徽章" } });
+
+    const table = screen.getByRole("table", { name: "徽章爆伤点券价格" });
+    expect(within(table).getAllByRole("row")).toHaveLength(14);
+    expect(within(table).getByText("80%")).toBeInTheDocument();
+    expect(within(table).getByText("500")).toBeInTheDocument();
+    expect(within(table).getByText("170%")).toBeInTheDocument();
+    expect(within(table).getByText("5000")).toBeInTheDocument();
+  });
+
+  it("shows only three-to-five-hole soul-device critical-damage pricing", () => {
+    render(<App />);
+    fireEvent.click(screen.getByRole("button", { name: /装备物价表/ }));
+    const category = screen.getByRole("combobox", { name: "分类" });
+    expect(screen.getByRole("option", { name: "魂导器" })).toBeInTheDocument();
+    fireEvent.change(category, { target: { value: "魂导器" } });
+
+    const table = screen.getByRole("table", { name: "魂导器爆伤点券价格" });
+    expect(within(table).getByText("三孔")).toBeInTheDocument();
+    expect(within(table).getByText("四孔")).toBeInTheDocument();
+    expect(within(table).getByText("五孔")).toBeInTheDocument();
+    expect(within(table).queryByText("一孔")).not.toBeInTheDocument();
+    expect(within(table).queryByText("二孔")).not.toBeInTheDocument();
+    expect(within(table).getByText("50%")).toBeInTheDocument();
+    expect(within(table).getByText("2500")).toBeInTheDocument();
+    expect(within(table).getByText("100%")).toBeInTheDocument();
+    expect(within(table).getByText("12000")).toBeInTheDocument();
   });
 });
